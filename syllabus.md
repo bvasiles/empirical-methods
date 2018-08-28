@@ -45,6 +45,9 @@ I expect that your work on assignments and the research project will be your own
 ### Accommodations
 If you wish to request an accommodation due to a documented disability, please inform the instructor as soon as possible and contact Disability Resources at 412.268.2013 or access@andrew.cmu.edu.
 
+### Writing skills
+For assistance with the written or oral communication assignments in this class, visit the Global Communication Center (GCC). GCC tutors can provide instruction on a range of communication topics and can help you improve your papers, presentations, and job application documents. The GCC is a free service, open to all students, and located in Hunt Library. You can make tutoring appointments directly on the GCC website: http://www.cmu.edu/gcc. You may also browse the GCC website to find out about communication workshops offered throughout the academic year.
+
 ### Your health matters
 When we say "your health matters" we mean exactly that: Your health matters. We don't intend to imply that other peoples' health does not matter, or that your health matters more or less than theirs. It's just that we know that CMU can be a stressful, risky environment, and your health is the health that is relevant in this conversation.
 
