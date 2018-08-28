@@ -1,7 +1,3 @@
----
-layout: course
----
-
 ## Overview
 
 Empirical methods play a key role in the evaluation of tools and technologies, and in testing the social and technical theories they embody. No matter what your research area is, chances are you will be conducing empirical studies as part of your research. Are you looking to evaluate a new algorithm? New tool? Analyze (big) data? Understand what challenges practitioners face in some domain? This course is a survey of empirical methods, appropriate for all computer science PhD students, including Software Engineering and Societal Computing.
