@@ -1,4 +1,4 @@
-Learning Goals for 17-803 Empirical Methods
+### Learning Goals for 17-803 Empirical Methods
 
 The following gives an overview of the (high-level) learning goals of 803. All learning goals are roughly written in a form "after taking this class, the student should be able to ...". 
 

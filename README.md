@@ -17,7 +17,7 @@ After completing this course, you will:
 ### Coordinates
 Th 09:00 - 11:20 a.m. in Wean 5328
 
-Course materials and assignments on [Canvas]()
+Course materials and assignments on [Canvas](https://canvas.cmu.edu/courses/7434)
 
 ```
 Bogdan Vasilescu
@@ -32,33 +32,51 @@ The [syllabus](syllabus.md) covers course overview and objectives, evaluation, t
 The [learning goals](learning-goals.md) describe what I want students to know or be able to do by the end of the semester. I evaluate whether learning goals have been achieved through assignments, written project reports, and in-class presentations.
 
 
-### Overview of Topics
+### Tentative Schedule
 
 While the exact schedule is still subject to change, I expect we will cover the following:
 
-Overarching concerns:
+| Date        		| Topic 	|
+| :------------- 	|:--------|
+8/30 | [Introduction](methods-slides-08-30-18.pdf)
+9/6	| Literature Review and Theory
+9/13 | Interviews
+9/20 | Grounded Theory
+9/27 | Surveys
+10/4 | Introduction to Measurement
+10/11 | Your Research Project Proposal & Feedback
+10/18 | Experimentation
+10/25 | Quasi-experimentation
+11/1 | Time Series Analysis
+11/8 | Mixed-methods
+11/15 | Text Mining
+11/22 | No Class - Thanksgiving
+11/29 | Social Network Analysis
+12/6 | Final Presentations
 
-- Epistemic base
-- Human subjects
+The schedule covers a mix of:
 
-Research Designs:
+- Overarching concerns:
 
-- Case studies
-- Grounded theory
-- Experiments
-- Quasi-experiments
-- Mixed methods
+  - Epistemic base
+  - Human subjects
 
-Data Collection:
+- Research Methods:
 
-- Interviews
-- Surveys
-- Observation/ethnography
-- Archival data
+  - Case studies
+  - Grounded theory
+  - Experiments
+  - Quasi-experiments
+  - Mixed methods
 
-Data Analysis:
+- Data Collection Methods:
 
-- Coding
-- Statistics (hypothesis testing, regression, time series)
-- Social Network Analysis
-- Counterfactual causal reasoning
+  - Interviews
+  - Surveys
+  - Archival analysis
+
+- Data Analysis Methods:
+
+  - Coding
+  - Statistics (hypothesis testing, regression, time series)
+  - Social Network Analysis
