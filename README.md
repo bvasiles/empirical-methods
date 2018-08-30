@@ -36,23 +36,23 @@ The [learning goals](learning-goals.md) describe what I want students to know or
 
 While the exact schedule is still subject to change, I expect we will cover the following:
 
-| Date        		| Topic 	|
-| :------------- 	|:--------|
-8/30 | [Introduction](methods-slides-08-30-18.pdf)
-9/6	| Literature Review and Theory
-9/13 | Interviews
-9/20 | Grounded Theory
-9/27 | Surveys
-10/4 | Introduction to Measurement
-10/11 | Your Research Project Proposal & Feedback
+| Date        		| Topic 	| Deadlines |
+| :------------- 	|:--------|:-------- |
+08/30 | [Introduction](methods-slides-08-30-18.pdf) |
+09/06	| Literature Review and Theory | HW1 due (comparison of methods)
+09/13 | Interviews
+09/20 | Grounded Theory
+09/27 | Surveys
+10/04 | Introduction to Measurement
+10/11 | Your Research Project Proposal
 10/18 | Experimentation
 10/25 | Quasi-experimentation
-11/1 | Time Series Analysis
-11/8 | Mixed-methods
+11/01 | Time Series Analysis
+11/08 | Mixed-methods
 11/15 | Text Mining
 11/22 | No Class - Thanksgiving
 11/29 | Social Network Analysis
-12/6 | Final Presentations
+12/06 | Final Presentations
 
 The schedule covers a mix of:
 
