@@ -39,8 +39,8 @@ While the exact schedule is still subject to change, I expect we will cover the 
 | Date        		| Topic 	| Deadlines |
 | :------------- 	|:--------|:-------- |
 08/30 | [Introduction](methods-slides-08-30-18.pdf) |
-09/06	| Literature Review and Theory | HW1 due (comparison of methods)
-09/13 | Interviews
+09/06	| [Literature Review and Theory](methods-slides-09-06-18.pdf) | HW1 due (comparison of methods)
+09/13 | Interviews  | HW2 due (literature review)
 09/20 | Grounded Theory
 09/27 | Surveys
 10/04 | Introduction to Measurement
