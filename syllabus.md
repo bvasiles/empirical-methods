@@ -3,7 +3,7 @@
 
 ### Prerequisites
 
-Basic knowledge of statistics and basic programming experience. For exammple:
+Basic knowledge of statistics and basic programming experience. For example:
 
 - Ability to write scripts for data extraction and manipulation
 - Familiarity with hypothesis testing
