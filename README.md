@@ -42,8 +42,8 @@ While the exact schedule is still subject to change, I expect we will cover the 
 09/06	| [Literature Review and Theory](https://drive.google.com/file/d/1cTFAIhd2trBfLbhdBMk4Uf0IlnQtSEYG/view?usp=sharing) | HW1 due (comparison of methods)
 09/13 | [Interviews](https://drive.google.com/file/d/17KpkgzwyrE76_QWA9i3zzvWJoDBVHjVu/view?usp=sharing)  | HW2 due (literature review)
 09/20 | [Grounded Theory](https://drive.google.com/drive/u/1/folders/16wO3e7OvcfxwQtjRgZSFc09pNj68V8qH)  | HW3 due (interviews)
-09/27 | Surveys 						 | HW4 due (grounded theory)
-10/04 | Introduction to Measurement
+09/27 | [Surveys](https://drive.google.com/drive/u/1/folders/16wO3e7OvcfxwQtjRgZSFc09pNj68V8qH) 						 | HW4 due (grounded theory)
+10/04 | Introduction to Measurement | HW5 due (survey)
 10/11 | Your Research Project Proposal
 10/18 | Experimentation
 10/25 | Quasi-experimentation
