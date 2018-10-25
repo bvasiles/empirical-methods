@@ -46,7 +46,7 @@ While the exact schedule is still subject to change, I expect we will cover the 
 10/04 | Introduction to Measurement (no slides) | HW5 due (survey)
 10/11 | Your Research Project Proposal (no slides)
 10/18 | [Experimentation](https://docs.google.com/document/d/1SNKZweleUzakP4DGrikI8ZbfmkHM-LRMC5wstUXZm9U/edit) | HW6 due (hypothesis testing)
-10/25 | Quasi-experimentation
+10/25 | [Quasi-experimentation](https://docs.google.com/document/d/1JGv3rVO9B1fxysbGCaWQD68DtBLpjlfn1vTfKV8TSrc/edit#) | HW7 due (experiment)
 11/01 | Time Series Analysis
 11/08 | Mixed-methods
 11/15 | Text Mining
