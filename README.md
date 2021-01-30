@@ -30,7 +30,7 @@ After completing this course, you will:
 
 
 ### Coordinates
-Th 09:00 - 11:20 a.m. in Wean 5328
+Tue & Thu 2:20 - 3:40 p.m. remote (Zoom)
 
 Course materials and assignments on [Canvas](https://canvas.cmu.edu/courses/7434)
 
