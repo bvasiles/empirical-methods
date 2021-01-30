@@ -1,6 +1,8 @@
-## Overview
 
-[![Empirical Methods](https://img.youtube.com/vi/TFkcCqmlLms/maxresdefault.jpg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
+[![Empirical Methods](./assets/promo/promo.001.jpeg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
+(thanks for the promo, [@JoshQuicksall](https://twitter.com/JoshQuicksall)!)
+
+## Overview
 
 Empirical methods play a key role in the evaluation of tools and technologies, 
 and in testing the social and technical theories they embody. No matter what 
