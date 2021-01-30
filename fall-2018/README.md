@@ -1,4 +1,4 @@
-<span style="color:red">**This is the archived site for the Fall 2018 offering of this course.**</span>
+<span style="color:red">**This is the archived site for the Fall 2018 offering of this course. Go to the current offering *[here](https://bvasiles.github.io/empirical-methods)*.**</span>
 
 ## Overview
 
