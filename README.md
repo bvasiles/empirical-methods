@@ -1,6 +1,9 @@
 
-[![Empirical Methods](./assets/promo/promo.001.jpeg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
+[![Empirical Methods](assets/promo/promo.001.jpeg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
 (thanks for the promo, [@JoshQuicksall](https://twitter.com/JoshQuicksall)!)
+
+**This is the Spring 2021 offering of this course. For older versions, see here: [Fall 2018](https://bvasiles.github.io/empirical-methods/fall-2018).**
+
 
 ## Overview
 
@@ -41,7 +44,6 @@ Course materials and assignments on [Canvas](https://canvas.cmu.edu/courses/7434
 ```
 Bogdan Vasilescu
 vasilescu@cmu.edu
-WEH 5115
 ```
 
 ### Course Syllabus and Policies
