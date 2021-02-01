@@ -1,3 +1,7 @@
+<head>
+      <meta property="og:image" content={assets/images/803.jpg} />
+      <meta name="twitter:image" content={assets/images/803.jpg} />
+</head>
 
 [![Empirical Methods](assets/promo/promo.001.jpeg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
 (thanks for the promo, [@JoshQuicksall](https://twitter.com/JoshQuicksall)!)
