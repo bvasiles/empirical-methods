@@ -4,7 +4,6 @@
 
 **This is the Spring 2021 offering of this course. For older versions, see here: [Fall 2018](https://bvasiles.github.io/empirical-methods/fall-2018).**
 
-
 ### Overview
 
 Empirical methods play a key role in the design and evaluation of tools and technologies, and in testing the social and technical theories they embody. No matter what your research area is, chances are you will be conducing some empirical studies as 
@@ -25,7 +24,7 @@ After completing this course, you will:
 -  become a more sophisticated consumer of empirical research, both in your field and outside
 -  develop the methodological skills that can help you design and carry out empirical components in your own research program
 -  be able to analyze empirical data, draw conclusions, and present results 
--  be able to read, summarize, present, but most importantly critique academic research papers
+-  be able to read, summarize, present, but most importantly critique academic empirical research papers on a deep technical level
 
 As a side effect, this course helps you develop a healthy dose of skepticism towards scientific results in general. Does the study design really allow the authors to make certain claims? Does the analysis technique? Is the evidence provided as strong as it could be? Are there fundamental flaws and threats to validity?
 

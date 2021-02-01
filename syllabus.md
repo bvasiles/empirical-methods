@@ -1,4 +1,4 @@
-# Empirical Methods
+# Empirical Methods [17-803]
 ## Course Syllabus and Policies
 
 ### Prerequisites
@@ -9,14 +9,14 @@ Basic knowledge of statistics and basic programming experience. For example:
 - Familiarity with hypothesis testing
 
 ### Evaluation
-Evaluation will be based on the following approximate percentages:
+Evaluation will be based on the following distribution:
 
-- 40% assignments
 - 50% research project
-	- 10% initial project description (proposal)
+	- 10% kick-off presentation
 	- 10% final presentation
 	- 30% final report
-- 10% participation and in-class presentations
+- 30% blog posts
+- 20% other homework assignments
 
 This course does not have a fixed letter grade policy; i.e., the final letter grades will not be A=90-100%, B=80-90%, etc.
 
@@ -24,23 +24,30 @@ This course does not have a fixed letter grade policy; i.e., the final letter gr
 This course will assign some mandatory and some optional weekly readings (papers and book chapters), both of which will be provided in electronic format or can be accessed through the CMU library.
 
 ### Time management
-This is a 12-unit course, and it is my intention to manage it so that you spend close to 12 hours a week on the course, on average. In general, 2.5 hours/week will be spent in class and 9.5 hours on assignments. Please feel free to give the instructor feedback on how much time the course is taking for you.
+This is a 12-unit course, and it is my intention to manage it so that you spend close to 12 hours a week on the course, on average. In general, 3 hours/week will be spent in class and 9 hours on assignments. Please feel free to give the instructor feedback on how much time the course is taking for you.
 
 ### Feedback policy
-Unless subject to extraordinary circumstances, I will give feedback on homework assignments within a week.
+I plan to give feedback on homework assignments within a week.
+
+### Remote teaching
+The Spring 2021 offering of this course will be taught remotely. I will try to be as accommodating as possible to different and difficult circumstances. Please don't hesitate to talk to me about how I can better support you in remote learning.
+
+In-class discussions are a very important part of the learning experience for this course. Even though lectures will be recorded, please make an effort to attend class "live", rather than relying on recordings.
+
+Please keep your camera on during class, because it provides a less anonymous and isolated experience and provides some feedback for the presenter. It is much easier and more natural to interact when the presenter can recognize nonverbal feedback, such as students nodding, looking confused, or raising their hand. You may use a virtual background for privacy if you wish.
 
 ### Late work policy
-I understand that normal life events, including research deadlines, deadlines in other courses, and technical difficulties out of your control, can interfere with your ability to complete your work on time. My philosophy is that our late work policy includes built-in flexibility but that the policy will be uniformly applied to all students in all circumstances. 
+I understand that normal life events, including research deadlines, deadlines in other courses, and technical difficulties out of your control, not to mention complications introduced by the pandemic, can interfere with your ability to complete your work on time. 
 
-Therefore, I will accept submissions up to two days late. However, because we tend to discuss last week's homework assignments in class the week after, to maintain fairness I will apply a 10% per late day penalty. Work turned in more than two days late will receive feedback but no credit, i.e., a 100% penalty. To better understand this late policy consider the following example scenario. Suppose a homework assignment is due Thursday morning before class (ostensibly at 08:59 a.m.). You may turn in your work:
+However, homework assignments are designed to build on each other. Moreover, many assignments are expected to be completed in groups, so your late work will also impact your group members. Therefore, it's best if you are on time with your submissions, to avoid a domino effect.
 
-- Thursday morning at 08:59:59 a.m. with no penalty
-- Anytime between Thursday morning at 09:00:00 a.m. (one second later, oops) and Friday morning at 08:59:59 a.m. with a 10% penalty
-- Anytime between Friday morning at 09:00:00 a.m. and Saturday morning at 08:59:59 a.m. with a 20% penalty
-- Anytime after Saturday morning at 09:00:00 for no credit
+Extensions are possible at discretion of the instructor in important circumstances.
 
 ### Collaboration policy
-I expect that your work on assignments and the research project will be your own work. For questions on how violations of this collaboration policy will be dealt with, please see the instructor.
+The usual policies apply, especially the University Policy on Academic Integrity. Many assignments will be done in groups or may be done in pairs. I expect that group members collaborate with one another, but that groups work independently from other groups, not exchanging results with other groups. Within groups and pairs, I expect that you are honest about your contribution to the group's work. This implies not taking credit for others' work and not covering for team members that have not contributed to the team. I expect that your work on assignments and the research project will be your (or your and your group members') own work. For questions on this collaboration policy, please see the instructor.
+
+### Respect for diversity
+It is my intent that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. It is my intent to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally or for other students or student groups.
 
 ### Accommodations
 If you wish to request an accommodation due to a documented disability, please inform the instructor as soon as possible and contact Disability Resources at 412.268.2013 or access@andrew.cmu.edu.
