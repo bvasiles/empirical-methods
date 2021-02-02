@@ -51,7 +51,7 @@ Below is a preliminary schedule for Spring 2021. Each link points to a dedicated
 
 | Date        		| Topic 	| Homework |
 | :------------- 	|:--------|:-------- |
-Tue, Feb 2 | [Introduction](pages/feb02-intro.md) |
+Tue, Feb 2 | [Introduction](pages/feb02-intro.md) | 
 Thu, Feb 4 | Literature reviews. Formulating research questions |
 Tue, Feb 9 | The role of theory |
 Thu, Feb 11 |Conducting interviews |

@@ -1,6 +1,6 @@
-## L1: Introduction ([pdf](), [video]())
+## L1: Introduction ([pdf](../slides/01-intro.pdf), [video](https://youtu.be/JdXipJ6xpgM))
 
-[![Lecture1-Intro](../assets/images/01-intro.jpeg)](slides)
+[![Lecture1-Intro](../assets/images/01-intro.jpeg)](../slides/01-intro.pdf)
 
 We will start out by looking broadly over the range of empirical methods you might consider using, and the assumptions and philosophical points of view they rely on. I also want to hear about the kinds of research problems you are working on or plan to work on, and the sorts of empirical questions they give rise to. Please be prepared to share this with the class, as it will help us to have fruitful discussions if we know a little about each others' research areas. I will use the information to customize the course a bit to emphasize things for which there is a clear need.
 
