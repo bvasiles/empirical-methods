@@ -15,19 +15,19 @@ Great overview of research methods available for qualitative, quantitative, and 
 
 Creswell introduces an important term we will use throughout the semester: "research design". Research designs are plans and the procedures for research that span the decisions from broad assumptions to detailed methods of data collection and analysis. This plan involves several decisions. The overall decision involves which **design** should be used to study a topic. Informing this decision should be the **worldview assumptions** the researcher brings to the study; procedures of inquiry (called **strategies**); and specific **methods** of data collection, analysis, and interpretation. The selection of a research design is also based on the nature of the research problem or issue being addressed, the researchers' personal experiences, and the audiences for the study.
 
---
+---
 > Easterbrook, S., Singer, J., Storey, M. A., & Damian, D. (2008). Selecting empirical methods for software engineering research. In Guide to advanced empirical software engineering (pp. 285-311). Springer, London.
 
 This chapter describes a number of empirical methods available. It examines the goals of each and analyzes the types of questions each best addresses (more on questions next class). Theoretical stances behind the methods, practical considerations in the application of the methods, and data collection are also briefly reviewed; this follows closely the discussion in Creswell. 
 
---
+---
 > Varpio, L., Paradis, E., Uijtdehaage, S., & Young, M. (2020). The distinctions between theory, theoretical framework, and conceptual framework. Academic Medicine, 95(7), 989-994.
 
 All too often, the words "theory", "theoretical framework," and "conceptual framework" are used interchangeably or without a clear understanding of the differences between these concepts. In this article, the authors set out to clarify the meaning of these terms and to describe how they are used in two common approaches to research: the objectivist deductive approach (from theory to data) and the subjectivist inductive approach (from data to theory). 
 
 In the lecture we talked about what doing research following each of these approaches is like. We will go over where "theory" fits in next class.
 
---
+---
 > Young, M., Varpio, L., Uijtdehaage, S., & Paradis, E. (2020). The spectrum of inductive and deductive research approaches using quantitative and qualitative data. Academic Medicine, 95(7), 1122.
 
 Some scholars tend to describe research approaches as either inductive or deductive and to categorize research methodologies as either qualitative or quantitative. These perspectives are frequently conflated: qualitative research is equated with inductive approaches (from data to theory), and quantitative research with deductive approaches (from theory to data). However, inductive and deductive research approaches exist on a spectrum, and the research methodologies investigators use (be they quantitative or qualitative) may sit anywhere along that spectrum. This one-pager presents examples of approaches to research using qualitative and quantitative data that demonstrate the spectrum from inductive to deductive.
