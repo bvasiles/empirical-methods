@@ -5,7 +5,7 @@
 We will start out by looking broadly over the range of empirical methods you might consider using, and the assumptions and philosophical points of view they rely on. I also want to hear about the kinds of research problems you are working on or plan to work on, and the sorts of empirical questions they give rise to. Please be prepared to share this with the class, as it will help us to have fruitful discussions if we know a little about each others' research areas. I will use the information to customize the course a bit to emphasize things for which there is a clear need.
 
 
-### References
+### Readings
 
 The lecture is based on the following sources. Do the readings yourselves to get all the nuance. I'm sure I didn't do them justice in my summary slides. 
 
@@ -31,3 +31,13 @@ In the lecture we talked about what doing research following each of these appro
 > Young, M., Varpio, L., Uijtdehaage, S., & Paradis, E. (2020). The spectrum of inductive and deductive research approaches using quantitative and qualitative data. Academic Medicine, 95(7), 1122.
 
 Some scholars tend to describe research approaches as either inductive or deductive and to categorize research methodologies as either qualitative or quantitative. These perspectives are frequently conflated: qualitative research is equated with inductive approaches (from data to theory), and quantitative research with deductive approaches (from theory to data). However, inductive and deductive research approaches exist on a spectrum, and the research methodologies investigators use (be they quantitative or qualitative) may sit anywhere along that spectrum. This one-pager presents examples of approaches to research using qualitative and quantitative data that demonstrate the spectrum from inductive to deductive.
+
+### Homework
+
+Skim the following papers, paying special attention to their research designs. Consider the differences in methods, the research questions they addressed, and the evidence they used to reach their conclusions. What does this tell you about the differences between qualitative and quantitative methods? In general, when is each type of method appropriate? What weaknesses does each methods suffer from?
+
+Be prepared to discuss the answers to these questions next class.  
+
+> Bogart, C., Kästner, C., Herbsleb, J., & Thung, F. (2016). How to break an API: Cost negotiation and community values in three software ecosystems. In Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering (pp. 109-120).
+
+> Raemaekers, S., Van Deursen, A., & Visser, J. (2014). Semantic versioning versus breaking changes: A study of the maven repository. In 2014 IEEE 14th International Working Conference on Source Code Analysis and Manipulation (pp. 215-224). IEEE.
