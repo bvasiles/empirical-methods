@@ -2,7 +2,7 @@
 
 [![Lecture1-Intro](../assets/images/02-rqs.jpeg)](../slides/02-rqs.pdf)
 
-Every research project needs some research question(s) and choosing questions is among the first steps you take, as they impact your choice of methods. With two researchers, Jane and Joe, as running examples, in this lecture we review a number of different research questions each could focus on, and discuss how each could lead to a different direction in developing research strategies. Often, the most obvious reserach question is not the best choice for a starting point.
+Every research project needs some research question(s) and choosing questions is among the first steps you take, as they impact your choice of methods. With two researchers, Jane and Joe, as running examples, in this lecture we review a number of different research questions each could focus on, and discuss how each could lead to a different direction in developing research strategies. Often, the most obvious research question is not the best choice for a starting point.
 
 
 ### Readings
