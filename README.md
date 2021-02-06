@@ -49,10 +49,10 @@ written project reports, and in-class presentations.
 Below is a preliminary schedule for Spring 2021. Each link points to a dedicated page with materials and more details.
 *Note*: The schedule is subject to change and will be updated as the semester progresses. 
 
-| Date        		| Topic 	| Homework |
+| Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
 Tue, Feb 2 | [Introduction](pages/feb02-intro.md) | 
-Thu, Feb 4 | Literature reviews. Formulating research questions |
+Thu, Feb 4 | [Formulating research questions](pages/feb-04-rqs.md) |
 Tue, Feb 9 | The role of theory |
 Thu, Feb 11 |Conducting interviews |
 Tue, Feb 16 | Qualitative data analysis (part I - coding) |
