@@ -53,7 +53,7 @@ Below is a preliminary schedule for Spring 2021. Each link points to a dedicated
 | :------------- 	|:--------|:-------- |
 Tue, Feb 2 | [Introduction](pages/feb02-intro.md) | 
 Thu, Feb 4 | [Formulating research questions](pages/feb04-rqs.md) |
-Tue, Feb 9 | The role of theory |
+Tue, Feb 9 | [The role of theory](pages/feb09-theory.md) |
 Thu, Feb 11 |Conducting interviews |
 Tue, Feb 16 | Qualitative data analysis (part I - coding) |
 Thu, Feb 18 | Qualitative data analysis (part II - reliability, trustworthiness) |
