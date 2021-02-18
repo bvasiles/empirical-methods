@@ -1,0 +1,16 @@
+Examining "User-Centered PL Design: A Course-Based Case Study"
+==============================================================
+
+Michael Coblenz, Ariel Davis, Megan Hofmann, Vivian Huang, Siyue Jin, Max Krieger, Kyle Liang, Brian Wei, Mengchen Sam Yong, & Jonathan Aldrich. (2020). User-Centered Programming Language Design: A Course-Based Case Study.
+
+Designing programming languages is challenging task. Languages suffer from early design decisions that are difficult to change later once enough inertia has accumulated. Unfortunately, the techniques used to study programming languages are expensive time-wise. 
+These barriers to entry in prototyping a language can make it difficult to make design decisions that are crucial in shaping the future of the language. The authors have designed a process to ease programming language design with a framework called PLIERS that integrates user-centered methods with traditional formal methods. They have already designed two languages with this framework and wish to reinforce this by having other participants that did not develop this framework use it for their own programming language design. To do so, the authors asked students in a class to design a new programming languages according to their own design goals. The students (in groups of six) learned about concepts in language design, semantics, and user study design and execution. Furthermore, they learned about the key concepts and methods PLIERS suggests in designing programming languages.
+
+The research questions for the paper are "Does PLIERS highlight problems in the early stages of programming language design?" and "What difficulties do practitioners face when using PLIERS, a systemic framework to aid designers for prototyping a programming language?" 
+
+Critique
+--------
+
+The authors view that user studies are an essential portion of programming language design. Many popular languages have changed their capabilities over time once widespread adoption happened. The related works section for this paper is a short two paragraphs. The literature on how to do programming language design is small and not directly tied to addressing programming language design. There is a gap in a systematic way in improving programming language design, probably because it is somewhat subjective and very hard to test directly. The work is very relevant to the large amount of language designers creating and introducing new languages.
+
+The authors use theory in that programming language design is an iterative process that requires user-study input to help guide design. It has shaped them to develop PLIERS and use this framework to develop 2 languages and develop a case study on user-studies using this framework. The paper effectively summarized each student teams' language and details about insights on the design process. The author split up overarching observations in two different user-centered approaches (natural programming, usability study). The paper also tidily identified future work in using the PLIERS process with more experienced language designers. They noted that since there is a lack of previous literature that it is difficult to make generalizable language design guidelines.
