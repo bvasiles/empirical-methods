@@ -12,6 +12,7 @@ The paper presents a rich literature overview in three bundles -
 - HCI and CSCW research on data science work practices
 - specific literature aiming to understand and support collaboration in data science
 - proposed tools and features in data science 
+
 The paper points out a gap in the current knowledge by arguing that the collaboration researches and tool supports till now have been focusing on the technical aspects only, ignoring the non-technical roles causing multidisciplinary problems (e.g., deep domain knowledge often only resides in domain experts mind). Also, the existing works focusing on data science practices mostly adopt interview research methods and a few use ethnographic research methods, falling short to generalize understanding from a larger user population. Thus, the authors of this paper wanted to gather a broader user perspective through a large-scale online survey to complement the existing qualitative narratives.
 
 
