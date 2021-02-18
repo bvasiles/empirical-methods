@@ -46,8 +46,15 @@ First, the authors present discussions on y-axis truncation on bar charts in par
 
 On the other hand, the authors do not clearly indicate the "hook" of their study - why their study makes a significant contribution to the gap of the problem. Nevertheless, they implicate in various parts of the discussion on experimental results that chart designers should keep in mind the effect of truncating the y-axis on chart types other than bar charts and even when the truncation is indicated explicitly, in order to avoid deception as much as possible.
 
-# Study Design
+## Study Design
 
 As I mentioned above, the series of experiments very logically follow one another. The rigor of the study design is also shown in the grounding stimuli before the experiment as well as a test on graphical literacy after the experiment. The series of grounding stimuli is especially important since the experimental questions are very subjective. Unfortunately, this adds to one major drawback of the study.
 
 Together with the eight grounding stimuli, each subject in Experiment One was given a total of 56 stimuli to respond to, and each subject in Experiment Two and Three was given a total of 44 stimuli. Although the compensation on the `prolific.ac` platform is likely better than on Amazon Mechanical Turk, it is still quite a tiring task for the subject to respond to a few dozens of scenarios. It is perhaps harder to guarantee a consistent and attentive response to every scenario when the number is large and the experiment is long.
+
+Another drawback, as the authors point out in the paper, is that their study evaluated the effect of truncating the y-axis agnostic to the context of the information presented in the visualizations. Different contexts and target audiences may lead to different effects of the practice in reality.
+
+---
+
+Finally, the authors do not discuss in the paper a general theory of the perception of effects from data visualization. This is likely due to the lack of a consistent theory as well as the fact that y-axis truncation is a very specific problem in the entire area of data visualization and interpretation.
+
