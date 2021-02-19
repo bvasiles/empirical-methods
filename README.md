@@ -56,9 +56,9 @@ Thu, Feb 4 | [Formulating research questions](pages/feb04-rqs.md) |
 Tue, Feb 9 | [The role of theory](pages/feb09-theory.md) |
 Thu, Feb 11 | [Literature review](pages/feb11-litreview.md) |
 Tue, Feb 16 | [Conducting interviews](pages/feb16-interviews.md) |
-Thu, Feb 18 | Qualitative data analysis (coding, reliability, trustworthiness) |
+Thu, Feb 18 | [Interview model papers](pages/feb18-interviews-examples.md) |
 ~~Tue, Feb 23~~ | ~~Break Day; No Classes~~ |
-Thu, Feb 25 | Designing surveys |
+Thu, Feb 25 | Qualitative data analysis (coding, reliability, trustworthiness) |
 Tue, Mar 2 | Designing experiments | 
 Thu, Mar 4 | Intro to measurement. Basic statistics |
 Tue, Mar 9 | Project proposals (elevator pitches) |
