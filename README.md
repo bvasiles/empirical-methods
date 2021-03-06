@@ -59,8 +59,8 @@ Tue, Feb 16 | [Conducting interviews](pages/feb16-interviews.md) |
 Thu, Feb 18 | [Interview model papers](pages/feb18-interviews-examples.md) |
 ~~Tue, Feb 23~~ | ~~Break Day; No Classes~~ |
 Thu, Feb 25 | [Qualitative data analysis (coding, reliability, trustworthiness)](pages/feb25-coding.md) |
-Tue, Mar 2 | Designing experiments | 
-Thu, Mar 4 | Intro to measurement. Basic statistics |
+Tue, Mar 2 | [Survey design (part I)](pages/mar02-mar04-surveys.md) | 
+Thu, Mar 4 | [Survey design (part II)](pages/mar02-mar04-surveys.md) |
 Tue, Mar 9 | Project proposals (elevator pitches) |
 Thu, Mar 11 | Statistical traps and trickery |
 Tue, Mar 16 | Vanilla regression modeling (part I) |
