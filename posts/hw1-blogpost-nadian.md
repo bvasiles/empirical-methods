@@ -1,4 +1,4 @@
-## Blog Post: Paper Motivation Critique
+## Blog Post: Paper Motivation Critique  *by Nadia Nahar*
 
 > Zhang, A. X., Muller, M., Wang, D. (2020). [How do Data Science Workers Collaborate? Roles,
 Workflows, and Tools](https://doi.org/10.1145/3392826). In Proceedings of the ACM on Human-Computer Interaction. 4, CSCW1, Article 22 (May 2020), (pp. 1-23). 
@@ -13,7 +13,24 @@ The paper presents a rich literature overview in three bundles -
 - specific literature aiming to understand and support collaboration in data science
 - proposed tools and features in data science 
 
-The paper points out a gap in the current knowledge by arguing that the collaboration researches and tool supports till now have been focusing on the technical aspects only, ignoring the non-technical roles causing multidisciplinary problems (e.g., deep domain knowledge often only resides in domain experts mind). Also, the existing works focusing on data science practices mostly adopt interview research methods and a few use ethnographic research methods, falling short to generalize understanding from a larger user population. Thus, the authors of this paper wanted to gather a broader user perspective through a large-scale online survey to complement the existing qualitative narratives.
+#### Gap
+The paper points out a gap in the current knowledge that, till now understanding of data science collaboration only focuses on the perspective of the data scientist, ignoring other potential forms of data science collaboration. As quoted from the paper -
+
+> Unfortunately, most of today’s understanding of data science collaboration only focuses on the perspective of the data scientist, and how to build tools to support distant and asynchronous collaborations among data scientists, such as version control of code. The technical collaborations afforded by such tools [100] only scratch the surface of the many ways that collaborations may happen within a data science team, such as when stakeholders discuss the framing of an initial problem before any code is written or data collected [79]. However, we have little empirical data to characterize the many potential forms of data science collaboration.
+
+Also, the existing works focusing on data science practices mostly adopt interview research methods and a few use ethnographic research methods, falling short to generalize understanding from a larger user population. As quoted from the paper -
+> Many of the papers about solitary data science work practices adopted the interview research method [34, 50, 54, 67, 92, 95]. An interview research method is well-suited for the exploratory nature of these empirical works in understanding a new practice, but it also falls short in generating a representative and generalizable understanding from a larger user population.
+> These related projects focused only on a civic data hackathon [43] and on the collaborative projects between data scientists and bio-medical scientists in scientific discovery projects [61]. Also, both of them used ethnographic research methods aiming for in-depth understanding of the context. In this work, we wanted to target a more commonly available scenario—data science teams' work practices in corporations—as this scenario is where most data science professionals work. We also want to gather a broader user perspective through the deployment of an online survey.
+
+The paper also argues that the collaboration researches and tool supports till now have been focusing on the technical aspects only, ignoring the non-technical roles causing multidisciplinary problems (e.g., deep domain knowledge often only resides in domain experts mind). As quoted from the paper -
+
+> In sum, almost all of the proposed tools and features in data science focus only on the technical users’ scenarios (e.g., data scientists and data engineers), such as how to better understand and wrangle data [18, 41], or how to better write and share code [49, 81, 92, 93].
+
+#### Hook
+The hook of the paper is to propose better design suggestions from a multi-disciplinary perspective. As quoted from the paper -
+> In this work, we want to present an account that covers both the technical roles and the non-technical roles of a professional data science team in corporations, so that we can better propose design suggestions from a multi-disciplinary perspective.
+
+Thus, the authors of this paper wanted to gather a broader user perspective through a large-scale online survey to complement the existing qualitative narratives, so that they can cover both technical and non-technical perspectives, and provide better tool design suggestions.
 
 
 ### Research questions
