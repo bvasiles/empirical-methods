@@ -34,6 +34,8 @@ To elaborate, currently only the technical users’ (e.g., data scientists) pers
 
 Thus, the authors of this paper wanted to gather a broader user perspective through a large-scale online survey to complement the existing qualitative narratives, so that they can cover both technical and non-technical perspectives, and provide better tool design suggestions.
 
+The authors provided some tool suggestions later on in the discussion section as Possible Collaborative Features (Section 5.1). For example, they suggested "Transparency" to be provided as a feature so that the data scientists do not inadvertently take hidden decisions that causes difficulty for the other team members in transmission of knowledge. Such assumptions and undocumented decisions can cause problems in establishing management plans. Thus, while designing a collaborative tool, transparency feature is needed to advocate making invisible activities more visible.
+
 ### Research questions
 The research question that the paper aims to answer is -
 > What is the extent of collaboration on data science teams?
