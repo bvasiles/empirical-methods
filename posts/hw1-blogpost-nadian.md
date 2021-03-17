@@ -30,8 +30,9 @@ The paper also argues that the collaboration researches and tool supports till n
 The hook of the paper is to propose better design suggestions from a multi-disciplinary perspective. As quoted from the paper -
 > In this work, we want to present an account that covers both the technical roles and the non-technical roles of a professional data science team in corporations, so that we can better propose design suggestions from a multi-disciplinary perspective.
 
-Thus, the authors of this paper wanted to gather a broader user perspective through a large-scale online survey to complement the existing qualitative narratives, so that they can cover both technical and non-technical perspectives, and provide better tool design suggestions.
+To elaborate, currently only the technical users’ (e.g., data scientists) perspectives are taken into account while designing a tool. This leads to inconvenience for the non-technical users to interpret the coding solutions and results. Thus, for designing better tools, perspectives of the multi-disciplinary people like domain experts, managers, etc. are needed. Thus, the target of this paper is to better understand the collaborative practices from not only the technical users but also the non-technical ones. The authors believe that by understanding the collaborative problems from all these users, better design decisions can be taken for designing future collaboration tools.
 
+Thus, the authors of this paper wanted to gather a broader user perspective through a large-scale online survey to complement the existing qualitative narratives, so that they can cover both technical and non-technical perspectives, and provide better tool design suggestions.
 
 ### Research questions
 The research question that the paper aims to answer is -
