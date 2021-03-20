@@ -61,7 +61,7 @@ Thu, Feb 18 | [Interview model papers](pages/feb18-interviews-examples.md) |
 Thu, Feb 25 | [Qualitative data analysis (coding, reliability, trustworthiness)](pages/feb25-coding.md) |
 Tue, Mar 2 | [Survey design (part I)](pages/mar02-mar04-surveys.md) | 
 Thu, Mar 4 | [Survey design (part II)](pages/mar02-mar04-surveys.md) |
-Tue, Mar 9 | Project proposals (elevator pitches) |
+Tue, Mar 9 | [Project proposal presentations](pages/mar09-proposals.md) |
 Thu, Mar 11 | Statistical traps and trickery |
 Tue, Mar 16 | Vanilla regression modeling (part I) |
 Thu, Mar 18 | Vanilla regression modeling (part II) |
