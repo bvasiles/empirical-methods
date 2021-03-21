@@ -1,3 +1,8 @@
+I review the paper "Participation Inequality and the 90-9-1 Principle in Open Source" recently. Overall, the paper targets an interesting question, but what it really does is to answer a small part of it, which is not so satisying to read. I will break it down below.
+
+** Reasons to choose the paper **
+There are a couple of reasons why I choose the paper, firstly, 
+
 ** Description of problem **
 
    Sustainability of GitHub project is an important and unsolved problem for open source software community. 
