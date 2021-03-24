@@ -62,10 +62,10 @@ Thu, Feb 25 | [Qualitative data analysis (coding, reliability, trustworthiness)]
 Tue, Mar 2 | [Survey design (part I)](pages/mar02-mar04-surveys.md) | 
 Thu, Mar 4 | [Survey design (part II)](pages/mar02-mar04-surveys.md) |
 Tue, Mar 9 | [Project proposal presentations](pages/mar09-proposals.md) |
-Thu, Mar 11 | Statistical traps and trickery |
-Tue, Mar 16 | Vanilla regression modeling (part I) |
-Thu, Mar 18 | Vanilla regression modeling (part II) |
-Tue, Mar 23 | Fancy regression modeling |
+Thu, Mar 11 | [Numbers and nonsense](pages/mar11-numbers.md) |
+Tue, Mar 16 | [Experimental design (part II)]() |
+Thu, Mar 18 | [Experimental design (part III)]() |
+Tue, Mar 23 | [Regression modeling (part I)]() |
 Thu, Mar 25 | Regression discontinuity design |
 Tue, Mar 30 | Causal inference part 1 (first differences, diff in diff) |
 Thu, Apr 1 | Causal inference part 2 (causal impact) |
