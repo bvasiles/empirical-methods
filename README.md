@@ -1,4 +1,4 @@
-[![Empirical Methods](assets/promo/promo.001.jpeg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
+[![Empirical Methods](assets/promo/promo.001.jpeg)](https://www.video.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
 (thanks for the promo, [@JoshQuicksall](https://twitter.com/JoshQuicksall)!)
 
 **This is the Spring 2021 offering of this course. For older versions, see here: [Fall 2018](https://bvasiles.github.io/empirical-methods/fall-2018).**
@@ -51,18 +51,18 @@ Below is a preliminary schedule for Spring 2021. Each link points to a dedicated
 
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
-Tue, Feb 2 | [Introduction](pages/feb02-intro.md) | 
-Thu, Feb 4 | [Formulating research questions](pages/feb04-rqs.md) |
-Tue, Feb 9 | [The role of theory](pages/feb09-theory.md) |
-Thu, Feb 11 | [Literature review](pages/feb11-litreview.md) |
-Tue, Feb 16 | [Conducting interviews](pages/feb16-interviews.md) |
-Thu, Feb 18 | [Interview model papers](pages/feb18-interviews-examples.md) |
+Tue, Feb 2 | [Introduction](pages/feb02-intro.md) | [slides](slides/01-intro.pdf) • [video](https://youtu.be/JdXipJ6xpgM)
+Thu, Feb 4 | [Formulating research questions](pages/feb04-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://youtu.be/MNLXuDKzy4U)
+Tue, Feb 9 | [The role of theory](pages/feb09-theory.md) | [slides](slides/03-theory.pdf) • [video](https://youtu.be/07O19aaKfU0)
+Thu, Feb 11 | [Literature review](pages/feb11-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/vuUZYaJJVas)
+Tue, Feb 16 | [Conducting interviews](pages/feb16-interviews.md) | [slides](slides/05-interviewing.pdf) • [video](https://youtu.be/G9v9wewVgt0)
+Thu, Feb 18 | [Interview model papers](pages/feb18-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf) • [video](https://youtu.be/NmCyLJQgUmA)
 ~~Tue, Feb 23~~ | ~~Break Day; No Classes~~ |
-Thu, Feb 25 | [Qualitative data analysis (coding, reliability, trustworthiness)](pages/feb25-coding.md) |
-Tue, Mar 2 | [Survey design (part I)](pages/mar02-mar04-surveys.md) | 
-Thu, Mar 4 | [Survey design (part II)](pages/mar02-mar04-surveys.md) |
-Tue, Mar 9 | [Project proposal presentations](pages/mar09-proposals.md) |
-Thu, Mar 11 | [Numbers and nonsense](pages/mar11-numbers.md) | [slides](https://bvasiles.github.io/empirical-methods/slides/10-experiments-pt1.pdf) • [youtube](https://youtu.be/HiCYuUUsa4A)
+Thu, Feb 25 | [Qualitative data analysis](pages/feb25-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/8YgYauoOnb0)
+Tue, Mar 2 | [Survey design (part I)](pages/mar02-mar04-surveys.md) | [slides](slides/08-survey-design.pdf) • [video](https://youtu.be/xqkpjAVof6w)
+Thu, Mar 4 | [Survey design (part II)](pages/mar02-mar04-surveys.md) | [slides](slides/08-survey-design.pdf) • [video](https://youtu.be/Rov8mTxTvW4)
+Tue, Mar 9 | [Project proposal presentations](pages/mar09-proposals.md) | 
+Thu, Mar 11 | [Numbers and nonsense](pages/mar11-numbers.md) | [slides](slides/10-experiments-pt1.pdf) • [video](https://youtu.be/HiCYuUUsa4A)
 Tue, Mar 16 | [Experimental design (part II)]() |
 Thu, Mar 18 | [Experimental design (part III)]() |
 Tue, Mar 23 | [Regression modeling (part I)]() |
