@@ -62,7 +62,7 @@ Thu, Feb 25 | [Qualitative data analysis (coding, reliability, trustworthiness)]
 Tue, Mar 2 | [Survey design (part I)](pages/mar02-mar04-surveys.md) | 
 Thu, Mar 4 | [Survey design (part II)](pages/mar02-mar04-surveys.md) |
 Tue, Mar 9 | [Project proposal presentations](pages/mar09-proposals.md) |
-Thu, Mar 11 | [Numbers and nonsense](pages/mar11-numbers.md) | [![youtube](assets/images/pdf+icon-1320184983790944082_16.png)](https://bvasiles.github.io/empirical-methods/slides/10-experiments-pt1.pdf) • [![youtube](assets/images/youtube+icon-1320184954376704211_16.png)](https://youtu.be/HiCYuUUsa4A)
+Thu, Mar 11 | [Numbers and nonsense](pages/mar11-numbers.md) | [slides](https://bvasiles.github.io/empirical-methods/slides/10-experiments-pt1.pdf) • [youtube](https://youtu.be/HiCYuUUsa4A)
 Tue, Mar 16 | [Experimental design (part II)]() |
 Thu, Mar 18 | [Experimental design (part III)]() |
 Tue, Mar 23 | [Regression modeling (part I)]() |
