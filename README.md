@@ -63,9 +63,9 @@ Tue, Mar 2 | [Survey design (part I)](pages/mar02-mar04-surveys.md) | [slides](s
 Thu, Mar 4 | [Survey design (part II)](pages/mar02-mar04-surveys.md) | [slides](slides/08-survey-design.pdf) • [video](https://youtu.be/Rov8mTxTvW4)
 Tue, Mar 9 | [Project proposal presentations](pages/mar09-proposals.md) | 
 Thu, Mar 11 | [Numbers and nonsense](pages/mar11-numbers.md) | [slides](slides/10-experiments-pt1.pdf) • [video](https://youtu.be/HiCYuUUsa4A)
-Tue, Mar 16 | [Experimental design (part I)](pages/mar16-experiments.md) | [slides](slides/11-experiments-pt2.pdf) • [video](https://youtu.be/SzZXGtgdoV4)
-Thu, Mar 18 | [Experimental design (part III)]() |
-Tue, Mar 23 | [Regression modeling (part I)]() |
+Tue, Mar 16 | [Causal relationships](pages/mar16-experiments.md) | [slides](slides/11-experiments-pt2.pdf) • [video](https://youtu.be/SzZXGtgdoV4)
+Thu, Mar 18 | [Experimental design](pages/mar18-experiments-pt2.md) | [slides](slides/12-experiments-pt3.pdf) • [video](https://youtu.be/OfwR8W3xiec)
+Tue, Mar 23 | [Intro to regression modeling]() |
 Thu, Mar 25 | Regression discontinuity design |
 Tue, Mar 30 | Causal inference part 1 (first differences, diff in diff) |
 Thu, Apr 1 | Causal inference part 2 (causal impact) |
