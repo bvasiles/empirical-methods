@@ -1,6 +1,6 @@
 ## L11: Causal Relationships ([pdf](../slides/11-experiments-pt2.pdf), [video](https://youtu.be/SzZXGtgdoV4))
 
-[![Lecture11-Experiments](../assets/images/11-experiments-2.jpg)](../slides/11-experiments-pt2.pdf)
+[![Lecture11-Experiments2](../assets/images/11-experiments-2.jpg)](../slides/11-experiments-pt2.pdf)
 
 This lecture is the second part of a series on designing experiments. We discussed what it means for something to be a "cause" or an "effect," the three ingredients needed for establishing a causal relationship, and how experiments as a research method match the characteristics of causal relationships very well.
 
