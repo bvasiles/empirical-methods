@@ -1,6 +1,6 @@
 ## L13: Intro to Linear Regression ([pdf](../slides/13-regression-pt1.pdf), [video](https://youtu.be/thvgtVTiaDQ))
 
-[![Lecture12-Experiments](../assets/images/13-regression-1.jpg)](../slides/13-regression-pt1.pdf)
+[![Lecture13-Regression-Intro](../assets/images/13-regression-1.jpg)](../slides/13-regression-pt1.pdf)
 
 This is the first lecture in a series dedicated to regression modeling. We talked about simple / multiple linear regression and how standard errors can be used to perform hypothesis tests on the estimated coefficients, with many examples throughout.
 
