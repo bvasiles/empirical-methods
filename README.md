@@ -66,7 +66,7 @@ Thu, Mar 11 | [Numbers and nonsense](pages/mar11-numbers.md) | [slides](slides/1
 Tue, Mar 16 | [Causal relationships](pages/mar16-experiments.md) | [slides](slides/11-experiments-pt2.pdf) • [video](https://youtu.be/SzZXGtgdoV4)
 Thu, Mar 18 | [Experimental design](pages/mar18-experiments-pt2.md) | [slides](slides/12-experiments-pt3.pdf) • [video](https://youtu.be/OfwR8W3xiec)
 Tue, Mar 23 | [Intro to regression modeling](pages/mar23-regression-pt1.md) | [slides](slides/13-regression-pt1.pdf) • [video](https://youtu.be/thvgtVTiaDQ)
-Thu, Mar 25 | [Linear regression diagnostics](pages/mar24-regression-pt2.md) | [slides](slides/14-regression-pt2.pdf) • [video](https://youtu.be/pq_wDYZPOKY)
+Thu, Mar 25 | [Linear regression diagnostics](pages/mar25-regression-pt2.md) | [slides](slides/14-regression-pt2.pdf) • [video](https://youtu.be/pq_wDYZPOKY)
 Tue, Mar 30 | Regression discontinuity design |
 Thu, Apr 1 | Causal inference (first differences, diff in diff, causal impact) |
 Tue, Apr 6 | Mixed-methods designs |
