@@ -8,16 +8,13 @@ See this [R markdown file](../slides/17-mixed-effects.html) for details, plus th
 
 We also discussed two example papers that used mixed-effects models as part of their analyses.
 
-### Exemplars
+### Example Papers
 
 > Peoples, B. K., Midway, S. R., Sackett, D., Lynch, A., & Cooney, P. B. (2016). [Twitter predicts citation rates of ecological research](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0166570&type=printable). PloS One, 11(11), e0166570.
-
----
 
 > Vasilescu, B., Posnett, D., Ray, B., van den Brand, M. G., Serebrenik, A., Devanbu, P., & Filkov, V. (2015). [Gender and tenure diversity in GitHub teams](https://cmustrudel.github.io/papers/chi15.pdf). CHI Conference on Human Factors in Computing Systems, CHI, ACM, pp 3789–3798. See also [this erratum](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F2702123.2702549&file=chi2015erratum.pdf).
 
 ### Lecture Readings
-
 
 > Bates, D., Mächler, M., Bolker, B., & Walker, S. (2015). [Fitting Linear Mixed-Effects Models Using lme4](http://mirrors.nics.utk.edu/cran/web/packages/lme4/vignettes/lmer.pdf). Journal of Statistical Software, 67(1), 1 - 48. 
 

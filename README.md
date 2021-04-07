@@ -68,14 +68,14 @@ Thu, Mar 18 | [Experimental design](pages/mar18-experiments-pt2.md) | [slides](s
 Tue, Mar 23 | [Intro to regression modeling](pages/mar23-regression-pt1.md) | [slides](slides/13-regression-pt1.pdf) • [video](https://youtu.be/thvgtVTiaDQ)
 Thu, Mar 25 | [Linear regression diagnostics](pages/mar25-regression-pt2.md) | [slides](slides/14-regression-pt2.pdf) • [video](https://youtu.be/pq_wDYZPOKY)
 Tue, Mar 30 | [Standardized coefficients + Mixed-effects](pages/mar30-regression-pt3.md) | [slides1](slides/15-zscore.html) • [slides2](slides/15-blr.html) • [video](https://youtu.be/rLoEDu9enQg)
-Thu, Apr 1 | [Exemplar regression papers](pages/apr01-regression-pt4.md) | [slides]()  • [video]()
+Thu, Apr 1 | [Exemplar regression papers](pages/apr01-regression-examples.md) | [video](https://youtu.be/UK_n8YqH79I)
 Tue, Apr 6 | [Simpson's paradox + Mixed-effects](pages/apr06-regression-pt5.md) | [slides](slides/17-mixed-effects.html)  • [video](https://youtu.be/PvHd_GqH6Tw)
 Thu, Apr 8 | Regression discontinuity design |
 Tue, Apr 13 | Mixed-methods designs |
 ~~Thu, Apr 15~~ | ~~Spring Carnival; No Classes~~ |
 Tue, Apr 20 | Big data vs thick data |
 Thu, Apr 22 | Agree to disagree |
-Tue, Apr 27 | Stepping up your typesetting, graphics, and presentation game |
+Tue, Apr 27 | Stepping up your paper production |
 Thu, Apr 29 | Retrospective |
 Tue, May 4 | Final presentations (part I) |
 Thu, May 6 | Final presentations (part II) |
