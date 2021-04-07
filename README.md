@@ -56,7 +56,7 @@ Thu, Feb 4 | [Formulating research questions](pages/feb04-rqs.md) | [slides](sli
 Tue, Feb 9 | [The role of theory](pages/feb09-theory.md) | [slides](slides/03-theory.pdf) • [video](https://youtu.be/07O19aaKfU0)
 Thu, Feb 11 | [Literature review](pages/feb11-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/vuUZYaJJVas)
 Tue, Feb 16 | [Conducting interviews](pages/feb16-interviews.md) | [slides](slides/05-interviewing.pdf) • [video](https://youtu.be/G9v9wewVgt0)
-Thu, Feb 18 | [Interview model papers](pages/feb18-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf) • [video](https://youtu.be/NmCyLJQgUmA)
+Thu, Feb 18 | [Exemplar interview papers](pages/feb18-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf) • [video](https://youtu.be/NmCyLJQgUmA)
 ~~Tue, Feb 23~~ | ~~Break Day; No Classes~~ |
 Thu, Feb 25 | [Qualitative data analysis](pages/feb25-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/8YgYauoOnb0)
 Tue, Mar 2 | [Survey design (part I)](pages/mar02-mar04-surveys.md) | [slides](slides/08-survey-design.pdf) • [video](https://youtu.be/xqkpjAVof6w)
@@ -67,15 +67,15 @@ Tue, Mar 16 | [Causal relationships](pages/mar16-experiments.md) | [slides](slid
 Thu, Mar 18 | [Experimental design](pages/mar18-experiments-pt2.md) | [slides](slides/12-experiments-pt3.pdf) • [video](https://youtu.be/OfwR8W3xiec)
 Tue, Mar 23 | [Intro to regression modeling](pages/mar23-regression-pt1.md) | [slides](slides/13-regression-pt1.pdf) • [video](https://youtu.be/thvgtVTiaDQ)
 Thu, Mar 25 | [Linear regression diagnostics](pages/mar25-regression-pt2.md) | [slides](slides/14-regression-pt2.pdf) • [video](https://youtu.be/pq_wDYZPOKY)
-Tue, Mar 30 | Regression discontinuity design |
-Thu, Apr 1 | Causal inference (first differences, diff in diff, causal impact) |
-Tue, Apr 6 | Mixed-methods designs |
-Thu, Apr 8 | Big data vs thick data |
-Tue, Apr 13 | Researchers are human, too |
+Tue, Mar 30 | [Standardized coefficients + Mixed-effects](pages/mar30-regression-pt3.md) | [slides1](slides/15-zscore.html) • [slides2](slides/15-blr.html) • [video](https://youtu.be/rLoEDu9enQg)
+Thu, Apr 1 | [Exemplar regression papers](pages/apr01-regression-pt4.md) | [slides]()  • [video]()
+Tue, Apr 6 | [Simpson's paradox + Mixed-effects](pages/apr06-regression-pt5.md) | [slides](slides/17-mixed-effects.html)  • [video](https://youtu.be/PvHd_GqH6Tw)
+Thu, Apr 8 | Regression discontinuity design |
+Tue, Apr 13 | Mixed-methods designs |
 ~~Thu, Apr 15~~ | ~~Spring Carnival; No Classes~~ |
-Tue, Apr 20 | Agree to disagree |
-Thu, Apr 22 | Stepping up your typesetting and graphics game |
-Tue, Apr 27 | Stepping up your presentation game |
+Tue, Apr 20 | Big data vs thick data |
+Thu, Apr 22 | Agree to disagree |
+Tue, Apr 27 | Stepping up your typesetting, graphics, and presentation game |
 Thu, Apr 29 | Retrospective |
 Tue, May 4 | Final presentations (part I) |
 Thu, May 6 | Final presentations (part II) |
