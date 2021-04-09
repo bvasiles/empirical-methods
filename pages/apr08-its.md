@@ -63,3 +63,8 @@ Beginning in September 1981, New Hampshire’s Medicaid program restricted the n
 > Trockman, A., Zhou, S., Kästner, C., & Vasilescu, B. (2018). [Adding sparkle to social coding: an empirical study of repository badges in the npm ecosystem](https://cmustrudel.github.io/papers/icse18badges.pdf). In Proceedings of the 40th International Conference on Software Engineering (pp. 511-522).
 
 Time-series analysis  revealed that the introduction of quality-assurance badges tends to correlate with positive intervention effects: The underlying qualities they signal tend to improve immediately, especially improved dependency freshness and more tests in pull requests.
+
+### Additional Readings
+
+> Metcalfe, A. V., & Cowpertwait, P. S. (2009). [Introductory time series with R](https://link.springer.com/book/10.1007%2F978-0-387-88698-5). Springer-Verlag New York.
+
