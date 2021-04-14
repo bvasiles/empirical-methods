@@ -71,9 +71,9 @@ Tue, Mar 30 | [Standardized coefficients + Mixed-effects](pages/mar30-regression
 Thu, Apr 1 | [Exemplar regression papers](pages/apr01-regression-examples.md) | [video](https://youtu.be/UK_n8YqH79I)
 Tue, Apr 6 | [Simpson's paradox + Mixed-effects](pages/apr06-regression-pt5.md) | [slides](slides/17-mixed-effects.html)  • [video](https://youtu.be/PvHd_GqH6Tw)
 Thu, Apr 8 | [Interrupted time series design](pages/apr08-its.md) | [slides](slides/18-its.pdf)  • [video](https://youtu.be/eryUi8jIDm4)
-Tue, Apr 13 | Mixed-methods designs |
+Tue, Apr 13 | [Diff-in-diff + CausalImpact](pages/apr13-diff-in-diff.md) | [slides](slides/19-diff-in-diff.pdf)  • [video](https://youtu.be/IZXPdvceOZQ)
 ~~Thu, Apr 15~~ | ~~Spring Carnival; No Classes~~ |
-Tue, Apr 20 | Big data vs thick data |
+Tue, Apr 20 | Mixed-methods designs |
 Thu, Apr 22 | Agree to disagree |
 Tue, Apr 27 | Stepping up your paper production |
 Thu, Apr 29 | Retrospective |
