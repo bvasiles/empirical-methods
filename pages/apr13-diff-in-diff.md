@@ -9,6 +9,10 @@ In this last lecture in the regression / quantitative analysis series, we talked
 [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html) is a modern approach to estimating the causal effect of a designed intervention on a time series. Given a response time series (e.g., clicks) and a set of control time series (e.g., clicks in non-affected markets or clicks on other sites), the CausalImpact R package constructs a Bayesian structural time-series model. This model is then used to try and predict the counterfactual, i.e., how the response metric would have evolved after the intervention if the intervention had never occurred. For a quick overview, watch the [tutorial video](https://www.youtube.com/watch?v=GTgZfCltMm8). For details, see: [Brodersen et al., Annals of Applied Statistics (2015)](http://research.google.com/pubs/pub41854.html).
 
 
+### Example Papers
+
+> Yang, L., Jaffe, S., Holtz, D., Suri, S., Sinha, S., Weston, J., ... & Teevan, J. (2020). [How Work From Home Affects Collaboration: A Large-Scale Study of Information Workers in a Natural Experiment During COVID-19](https://arxiv.org/pdf/2007.15584.pdf). arXiv preprint arXiv:2007.15584.
+
 ### Lecture Readings
 
 > Diff-in-diff lecture from the [Foundations of Program Evaluation III course](https://ds4ps.org/pe4ps-textbook/docs/p-030-diff-in-diff.html)
