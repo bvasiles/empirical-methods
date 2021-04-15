@@ -1,6 +1,6 @@
-## L19: Diff-in-Diff & CausalImpact ([Rmd](../slides/19-diff-in-diff.pdf), [video](https://youtu.be/IZXPdvceOZQ))
+## L19: Diff-in-Diff & CausalImpact ([slides](../slides/19-diff-in-diff.pdf), [video](https://youtu.be/IZXPdvceOZQ))
 
-![Lecture19-Diff-in-Diff](../assets/images/19-diff-in-diff.jpg)
+[![Lecture19-Diff-in-Diff](../assets/images/19-diff-in-diff.jpg)](../slides/19-diff-in-diff.pdf)
 
 In this last lecture in the regression / quantitative analysis series, we talked about two popular causal inference techniques for evaluating the effects of an intervention. 
 
