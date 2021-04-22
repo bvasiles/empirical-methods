@@ -74,7 +74,7 @@ Thu, Apr 8 | [Interrupted time series design](pages/apr08-its.md) | [slides](sli
 Tue, Apr 13 | [Diff-in-diff + CausalImpact](pages/apr13-diff-in-diff.md) | [slides](slides/19-diff-in-diff.pdf)  • [video](https://youtu.be/IZXPdvceOZQ)
 ~~Thu, Apr 15~~ | ~~Spring Carnival; No Classes~~ |
 Tue, Apr 20 | [Mixed-methods designs](pages/apr20-mixed-methods.md) | [slides](slides/20-mixed-methods.pdf) • [video](https://youtu.be/Ul6nyB0ckvA)
-Thu, Apr 22 | Stepping up your paper production |
+Thu, Apr 22 | [Stepping up your graphics, slide design, and writing](pages/apr22-research-production.md) | [slides](slides/21-research-production.pdf) • [video](https://youtu.be/WsRU9zRopWk)
 Tue, Apr 27 | Agree to disagree |
 Thu, Apr 29 | Agree to disagree / Retrospective |
 Tue, May 4 | Final presentations (part I) |
