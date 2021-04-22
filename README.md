@@ -73,10 +73,10 @@ Tue, Apr 6 | [Simpson's paradox + Mixed-effects](pages/apr06-regression-pt5.md) 
 Thu, Apr 8 | [Interrupted time series design](pages/apr08-its.md) | [slides](slides/18-its.pdf)  • [video](https://youtu.be/eryUi8jIDm4)
 Tue, Apr 13 | [Diff-in-diff + CausalImpact](pages/apr13-diff-in-diff.md) | [slides](slides/19-diff-in-diff.pdf)  • [video](https://youtu.be/IZXPdvceOZQ)
 ~~Thu, Apr 15~~ | ~~Spring Carnival; No Classes~~ |
-Tue, Apr 20 | Mixed-methods designs |
-Thu, Apr 22 | Agree to disagree |
-Tue, Apr 27 | Stepping up your paper production |
-Thu, Apr 29 | Retrospective |
+Tue, Apr 20 | [Mixed-methods designs](pages/apr20-mixed-methods.md) | [slides](slides/20-mixed-methods.pdf) • [video](https://youtu.be/Ul6nyB0ckvA)
+Thu, Apr 22 | Stepping up your paper production |
+Tue, Apr 27 | Agree to disagree |
+Thu, Apr 29 | Agree to disagree / Retrospective |
 Tue, May 4 | Final presentations (part I) |
 Thu, May 6 | Final presentations (part II) |
 
