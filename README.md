@@ -1,4 +1,4 @@
-[![Empirical Methods](assets/promo/promo.001.jpeg)](https://www.video.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
+[![Empirical Methods](assets/promo/promo.001.jpeg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
 (thanks for the promo, [@JoshQuicksall](https://twitter.com/JoshQuicksall)!)
 
 **This is the Spring 2021 offering of this course. For older versions, see here: [Fall 2018](https://bvasiles.github.io/empirical-methods/fall-2018).**
