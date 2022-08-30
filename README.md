@@ -75,9 +75,9 @@ Tue, Apr 13 | [Diff-in-diff + CausalImpact](pages/apr13-diff-in-diff.md) | [slid
 ~~Thu, Apr 15~~ | ~~Spring Carnival; No Classes~~ |
 Tue, Apr 20 | [Mixed-methods designs](pages/apr20-mixed-methods.md) | [slides](slides/20-mixed-methods.pdf) • [video](https://youtu.be/Ul6nyB0ckvA)
 Thu, Apr 22 | [Stepping up your graphics, slide design, and writing](pages/apr22-research-production.md) | [slides](slides/21-research-production.pdf) • [video](https://youtu.be/WsRU9zRopWk)
-Tue, Apr 27 | Agree to disagree |
-Thu, Apr 29 | Agree to disagree / Retrospective |
-Tue, May 4 | Final presentations (part I) |
-Thu, May 6 | Final presentations (part II) |
+Tue, Apr 27 | [Separating Research From Researchers?](pages/apr27-research-vs-researchers.md) | [video](https://youtu.be/4ttDdcNoJFk)
+Thu, Apr 29 | [Agree to disagree](pages/apr29-agree-to-disagree.md) | [video](https://youtu.be/DnRqsDVeHMs)
+Tue, May 4 | Final presentations (part I) | [video](https://youtu.be/o5CT1y6j4tA)
+Thu, May 6 | Final presentations (part II) | [video](https://youtu.be/S4eROsDU95k)
 
 
