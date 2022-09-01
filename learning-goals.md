@@ -15,4 +15,4 @@ The following gives an overview of the (high-level) learning goals of 803. All l
 - Run statistical tests and interpret results
 - Build, validate, and interpret regression models
 - Draw conclusions from empirical data
-- Pesent results verbally and in writing
+- Present results verbally and in writing

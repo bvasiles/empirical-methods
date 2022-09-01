@@ -5,7 +5,9 @@
 
 ### Overview
 
-Empirical methods play a key role in the design and evaluation of tools and technologies, and in testing the social and technical theories they embody. No matter what your research area is, chances are you will be conducing some empirical studies as 
+Empirical methods play a key role in the design and evaluation of tools and technologies, 
+and in testing the social and technical theories they embody. No matter what your 
+research area is, chances are you will be conducting some empirical studies as 
 part of your work. Are you looking to evaluate a new algorithm? New tool? 
 Analyze (big) data? Understand what challenges practitioners face in some domain? 
 
@@ -58,7 +60,7 @@ Below is a preliminary schedule for Fall 2022. Each link points to a dedicated p
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
 Tue, Aug 30 | [Introduction](pages/aug30-intro.md) | [slides](slides/01-intro.pdf) • video
-Thu, Sep 1 | Formulating research questions | 
+Thu, Sep 1 | [Formulating research questions](pages/sep01-rqs.md) | [slides](slides/02-rqs.pdf) • video
 Tue, Sep 6 | The role of theory | 
 Thu, Sep 8 | Literature review | 
 Tue, Sep 13 | Conducting interviews | 
@@ -81,7 +83,7 @@ Tue, Nov 8 | Interrupted time series design |
 Thu, Nov 10 | Diff-in-diff + CausalImpact |
 Tue, Nov 15 | Mixed-methods designs |
 Thu, Nov 17 | Social network analysis (part I) |
-Tue, Nove 22 | Social network analysis (part II) |
+Tue, Nov 22 | Social network analysis (part II) |
 ~~Thu, Nov 24~~ | ~~Thanksgiving, no class~~ |
 Tue, Nov 29 | Research vs researcher |
 Thu, Dec 1 | Agree to disagree |
