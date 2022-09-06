@@ -61,7 +61,7 @@ Below is a preliminary schedule for Fall 2022. Each link points to a dedicated p
 | :------------- 	|:--------|:-------- |
 Tue, Aug 30 | [Introduction](pages/aug30-intro.md) | [slides](slides/01-intro.pdf) • video
 Thu, Sep 1 | [Formulating research questions](pages/sep01-rqs.md) | [slides](slides/02-rqs.pdf) • video
-Tue, Sep 6 | The role of theory | 
+Tue, Sep 6 | [The role of theory](pages/sep06-theory.md) | 
 Thu, Sep 8 | Literature review | 
 Tue, Sep 13 | Conducting interviews | 
 Thu, Sep 15 | Exemplar interview papers | 
