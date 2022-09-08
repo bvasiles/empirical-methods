@@ -1,6 +1,6 @@
 ## L4: Literature Review ([pdf](../slides/04-litreview.pdf), video)
 
-[![Lecture4-LitReview](../assets/images/04-litreview.jpg)](../slides/04-litreview.pdf)
+[![Lecture4-LitReview](../assets/images/04-litreview.jpeg)](../slides/04-litreview.pdf)
 
 You're about to start a new research project. *Can* the problem you're interested in be studied? It had better be, otherwise you won't make much progress. But *should* it be studied? Does it add to the body of knowledge? And who else besides you would care about the results?
 
