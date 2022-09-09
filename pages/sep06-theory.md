@@ -1,4 +1,4 @@
-## L3: The Role of Theory ([pdf](../slides/03-theory.pdf), video)
+## L3: The Role of Theory ([pdf](../slides/03-theory.pdf), [video](https://youtu.be/NEgRVKd1zzI))
 
 [![Lecture3-Theory](../assets/images/03-theory.jpeg)](../slides/03-theory.pdf)
 

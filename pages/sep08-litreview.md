@@ -1,4 +1,4 @@
-## L4: Literature Review ([pdf](../slides/04-litreview.pdf), video)
+## L4: Literature Review ([pdf](../slides/04-litreview.pdf), [video](https://youtu.be/DWImirSZXaA))
 
 [![Lecture4-LitReview](../assets/images/04-litreview.jpeg)](../slides/04-litreview.pdf)
 

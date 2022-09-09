@@ -55,14 +55,16 @@ written project reports, and in-class presentations.
 ### Schedule
 
 Below is a preliminary schedule for Fall 2022. Each link points to a dedicated page with materials and more details.
+All videos are published on [this YouTube channel](https://youtube.com/playlist?list=PLuPUOEODcOmsS409iKohAewobtQswdI7M).
+
 *Note*: The schedule is subject to change and will be updated as the semester progresses. 
 
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
-Tue, Aug 30 | [Introduction](pages/aug30-intro.md) | [slides](slides/01-intro.pdf) • video
-Thu, Sep 1 | [Formulating research questions](pages/sep01-rqs.md) | [slides](slides/02-rqs.pdf) • video
-Tue, Sep 6 | [The role of theory](pages/sep06-theory.md) | [slides](slides/03-theory.pdf) • video
-Thu, Sep 8 | [Literature review](pages/sep08-litreview.md) | [slides](slides/04-litreview.pdf) • video
+Tue, Aug 30 | [Introduction](pages/aug30-intro.md) | [slides](slides/01-intro.pdf) • [video](https://youtu.be/IDtePCle3Qc)
+Thu, Sep 1 | [Formulating research questions](pages/sep01-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://youtu.be/tQDMPCnd7rc)
+Tue, Sep 6 | [The role of theory](pages/sep06-theory.md) | [slides](slides/03-theory.pdf) • [video](https://youtu.be/NEgRVKd1zzI)
+Thu, Sep 8 | [Literature review](pages/sep08-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/DWImirSZXaA)
 Tue, Sep 13 | Conducting interviews | 
 Thu, Sep 15 | Exemplar interview papers | 
 Tue, Sep 20 | Qualitative data analysis |

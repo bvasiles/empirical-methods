@@ -1,4 +1,4 @@
-## L2: Formulating Research Questions ([pdf](../slides/02-rqs.pdf), video
+## L2: Formulating Research Questions ([pdf](../slides/02-rqs.pdf), [video](https://youtu.be/tQDMPCnd7rc))
 
 [![Lecture2-Research-Questions](../assets/images/02-rqs.jpeg)](../slides/02-rqs.pdf)
 
