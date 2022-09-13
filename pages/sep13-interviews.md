@@ -1,6 +1,6 @@
 ## L5: Conducting Interviews ([pdf](../slides/05-interviewing.pdf), video)
 
-[![Lecture5-Interviews](../assets/images/05-interviewing.jpg)](../slides/05-interviewing.pdf)
+[![Lecture5-Interviews](../assets/images/05-interviewing.jpeg)](../slides/05-interviewing.pdf)
 
 Interviews are probably the most common method of data gathering in qualitative research. There are a variety of forms of qualitative research interviews, among which semi-structured interviews are the most typically used in computer science. Interviews are a great way to validate data and wonderful tools for exploratory investigation. The can often drive the formation of theories and hypotheses, and they are very common in mixed-methods designs. In this lecture we go over all the steps to rigorously conduct interviews. We discuss in detail how to create the interview guide (or "protocol"), how to recruit participants, and how to carry out the actual interviews (including practical guidance for motivating participants, asking, listening, understanding, probing, maintaining control, reinforcing, and recording).
 
