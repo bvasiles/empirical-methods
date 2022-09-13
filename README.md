@@ -35,9 +35,10 @@ After completing this course, you will:
 As a side effect, this course helps you develop a healthy dose of skepticism towards scientific results in general. Does the study design really allow the authors to make certain claims? Does the analysis technique? Is the evidence provided as strong as it could be? Are there fundamental flaws and threats to validity?
 
 ### Coordinates
-- Lectures: Tuesdays & Thursdays 3:05-4:25pm, Eastern Time, on Zoom
+- Lectures: Tuesdays & Thursdays 3:05-4:25pm, Eastern Time
 - Assignments, private announcements: [Canvas](https://canvas.cmu.edu/courses/31674)
 - Slides: this website
+- Reading materials: [Shared Google Drive folder](https://drive.google.com/drive/folders/1lSOQlbw-cRmT47_itpIJkTZua_IASNgB?usp=sharing) accessible with CMU login
 - Instructor: [Bogdan Vasilescu](https://bvasiles.github.io)
 - Teaching assistant: [Hongbo Fang](https://www.cmu.edu/news/stories/archives/2022/june/open-source-software.html)
 
