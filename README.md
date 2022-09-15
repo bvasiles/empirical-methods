@@ -67,7 +67,7 @@ Thu, Sep 1 | [Formulating research questions](pages/sep01-rqs.md) | [slides](sli
 Tue, Sep 6 | [The role of theory](pages/sep06-theory.md) | [slides](slides/03-theory.pdf) • [video](https://youtu.be/NEgRVKd1zzI)
 Thu, Sep 8 | [Literature review](pages/sep08-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/DWImirSZXaA)
 Tue, Sep 13 | [Conducting interviews](pages/sep13-interviews.md) | [slides](slides/05-interviewing.pdf) 
-Thu, Sep 15 | Exemplar interview papers | 
+Thu, Sep 15 | [Exemplar interview papers](pages/sep15-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf)
 Tue, Sep 20 | Qualitative data analysis |
 Thu, Sep 22 | Survey design (part I) |
 Tue, Sep 27 | Survey design (part II) |
