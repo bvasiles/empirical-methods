@@ -66,9 +66,9 @@ Tue, Aug 30 | [Introduction](pages/aug30-intro.md) | [slides](slides/01-intro.pd
 Thu, Sep 1 | [Formulating research questions](pages/sep01-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://youtu.be/tQDMPCnd7rc)
 Tue, Sep 6 | [The role of theory](pages/sep06-theory.md) | [slides](slides/03-theory.pdf) • [video](https://youtu.be/NEgRVKd1zzI)
 Thu, Sep 8 | [Literature review](pages/sep08-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/DWImirSZXaA)
-Tue, Sep 13 | [Conducting interviews](pages/sep13-interviews.md) | [slides](slides/05-interviewing.pdf) 
-Thu, Sep 15 | [Exemplar interview papers](pages/sep15-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf)
-Tue, Sep 20 | Qualitative data analysis |
+Tue, Sep 13 | [Conducting interviews](pages/sep13-interviews.md) | [slides](slides/05-interviewing.pdf) • [video](https://youtu.be/OJRXFEe80Rk)
+Thu, Sep 15 | [Exemplar interview papers](pages/sep15-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf) • [video](https://youtu.be/7IXzoeohyLE)
+Tue, Sep 20 | [Qualitative data analysis](pages/sep20-coding.md) | [slides](slides/07-qualitative-coding.pdf)
 Thu, Sep 22 | Survey design (part I) |
 Tue, Sep 27 | Survey design (part II) |
 Thu, Sep 29 | Project proposal presentations |

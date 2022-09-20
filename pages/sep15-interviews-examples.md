@@ -1,4 +1,4 @@
-## L6: Interview Model Papers ([pdf](../slides/06-interviewing-examples.pdf), video)
+## L6: Interview Model Papers ([pdf](../slides/06-interviewing-examples.pdf), [video](https://youtu.be/7IXzoeohyLE))
 
 [![Lecture6-Interviews-Examples](../assets/images/06-interviewing-examples.jpeg)](../slides/06-interviewing-examples.pdf)
 
