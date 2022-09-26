@@ -68,9 +68,9 @@ Tue, Sep 6 | [The role of theory](pages/sep06-theory.md) | [slides](slides/03-th
 Thu, Sep 8 | [Literature review](pages/sep08-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/DWImirSZXaA)
 Tue, Sep 13 | [Conducting interviews](pages/sep13-interviews.md) | [slides](slides/05-interviewing.pdf) • [video](https://youtu.be/OJRXFEe80Rk)
 Thu, Sep 15 | [Exemplar interview papers](pages/sep15-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf) • [video](https://youtu.be/7IXzoeohyLE)
-Tue, Sep 20 | [Qualitative data analysis](pages/sep20-coding.md) | [slides](slides/07-qualitative-coding.pdf)
-Thu, Sep 22 | Survey design (part I) |
-Tue, Sep 27 | Survey design (part II) |
+Tue, Sep 20 | [Qualitative data analysis](pages/sep20-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/Wfi1s66Ig34)
+~~Thu, Sep 22~~ | ~~Class cancelled for the [S3D launch event](https://www.cs.cmu.edu/news/2022/isr-s3d-rebrand)~~ |
+Tue, Sep 27 | Survey design |
 Thu, Sep 29 | Project proposal presentations |
 Tue, Oct 4 | Numbers and nonsense |
 Thu, Oct 6 | Causal relationships |
@@ -85,10 +85,10 @@ Thu, Nov 3 | Simpson’s paradox + Mixed-effects |
 Tue, Nov 8 | Interrupted time series design |
 Thu, Nov 10 | Diff-in-diff + CausalImpact |
 Tue, Nov 15 | Mixed-methods designs |
-Thu, Nov 17 | Social network analysis (part I) |
-Tue, Nov 22 | Social network analysis (part II) |
+Thu, Nov 17 | Research vs researcher |
+Tue, Nov 22 | Agree to disagree |
 ~~Thu, Nov 24~~ | ~~Thanksgiving, no class~~ |
-Tue, Nov 29 | Research vs researcher |
-Thu, Dec 1 | Agree to disagree |
+Tue, Nov 29 | Social network analysis (part I) |
+Thu, Dec 1 | Social network analysis (part II) |
 Tue, Dec 6 | Final presentations (part I) |
 Thu, Dec 8 | Final presentations (part II) |
