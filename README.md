@@ -70,7 +70,7 @@ Tue, Sep 13 | [Conducting interviews](pages/sep13-interviews.md) | [slides](slid
 Thu, Sep 15 | [Exemplar interview papers](pages/sep15-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf) • [video](https://youtu.be/7IXzoeohyLE)
 Tue, Sep 20 | [Qualitative data analysis](pages/sep20-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/Wfi1s66Ig34)
 ~~Thu, Sep 22~~ | ~~Class cancelled for the [S3D launch event](https://www.cs.cmu.edu/news/2022/isr-s3d-rebrand)~~ |
-Tue, Sep 27 | Survey design |
+Tue, Sep 27 | [Survey design](pages/sep27-surveys.md) | [slides](slides/08-survey-design.pdf)
 Thu, Sep 29 | Project proposal presentations |
 Tue, Oct 4 | Numbers and nonsense |
 Thu, Oct 6 | Causal relationships |
