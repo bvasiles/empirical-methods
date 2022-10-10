@@ -1,4 +1,4 @@
-## L8: Survey Design ([pdf](../slides/08-survey-design.pdf))
+## L8: Survey Design ([pdf](../slides/08-survey-design.pdf), [video](https://youtu.be/Iymyk26pOaQ))
 
 [![Lecture8-Survey-Design](../assets/images/08-survey-design.jpeg)](../slides/08-survey-design.pdf)
 

@@ -70,21 +70,21 @@ Tue, Sep 13 | [Conducting interviews](pages/sep13-interviews.md) | [slides](slid
 Thu, Sep 15 | [Exemplar interview papers](pages/sep15-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf) • [video](https://youtu.be/7IXzoeohyLE)
 Tue, Sep 20 | [Qualitative data analysis](pages/sep20-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/Wfi1s66Ig34)
 ~~Thu, Sep 22~~ | ~~Class cancelled for the [S3D launch event](https://www.cs.cmu.edu/news/2022/isr-s3d-rebrand)~~ |
-Tue, Sep 27 | [Survey design](pages/sep27-surveys.md) | [slides](slides/08-survey-design.pdf)
-Thu, Sep 29 | Project proposal presentations |
-Tue, Oct 4 | Numbers and nonsense |
-Thu, Oct 6 | Causal relationships |
-Tue, Oct 11 | Experimental design |
-Thu, Oct 13 | Intro to regression modeling |
+Tue, Sep 27 | [Survey design](pages/sep27-surveys.md) | [slides](slides/08-survey-design.pdf) • [video](https://youtu.be/Iymyk26pOaQ)
+Thu, Sep 29 | Recitation - Qualitative coding & Thematic analysis | no slides • no video
+Tue, Oct 4 | Project proposal presentations | no slides • no video
+Thu, Oct 6 | [Mixed-methods designs](oct06-mixed-methods.md) | [slides](slides/10-mixed-methods.pdf) • [video](https://youtu.be/jzjjhUwocrM)
+Tue, Oct 11 | Causal relationships |
+Thu, Oct 13 | Experimental design |
 ~~Tue, Oct 18~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 20~~ | ~~Fall break, no class~~ |
-Tue, Oct 25 | Linear regression diagnostics |
-Thu, Oct 27 | Standardized coefficients + Mixed-effects |
-Tue, Nov 1 | Exemplar regression papers |
-Thu, Nov 3 | Simpson’s paradox + Mixed-effects |
-Tue, Nov 8 | Interrupted time series design |
-Thu, Nov 10 | Diff-in-diff + CausalImpact |
-Tue, Nov 15 | Mixed-methods designs |
+Tue, Oct 25 | Intro to regression modeling |
+Thu, Oct 27 | Linear regression diagnostics |
+Tue, Nov 1 | Standardized coefficients + Mixed-effects |
+Thu, Nov 3 | Exemplar regression papers |
+Tue, Nov 8 | Simpson’s paradox + Mixed-effects |
+Thu, Nov 10 | Interrupted time series design |
+Tue, Nov 15 | Diff-in-diff + CausalImpact |
 Thu, Nov 17 | Research vs researcher |
 Tue, Nov 22 | Agree to disagree |
 ~~Thu, Nov 24~~ | ~~Thanksgiving, no class~~ |
