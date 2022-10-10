@@ -73,7 +73,7 @@ Tue, Sep 20 | [Qualitative data analysis](pages/sep20-coding.md) | [slides](slid
 Tue, Sep 27 | [Survey design](pages/sep27-surveys.md) | [slides](slides/08-survey-design.pdf) • [video](https://youtu.be/Iymyk26pOaQ)
 Thu, Sep 29 | Recitation - Qualitative coding & Thematic analysis | no slides • no video
 Tue, Oct 4 | Project proposal presentations | no slides • no video
-Thu, Oct 6 | [Mixed-methods designs](oct06-mixed-methods.md) | [slides](slides/10-mixed-methods.pdf) • [video](https://youtu.be/jzjjhUwocrM)
+Thu, Oct 6 | [Mixed-methods designs](pages/oct06-mixed-methods.md) | [slides](slides/10-mixed-methods.pdf) • [video](https://youtu.be/jzjjhUwocrM)
 Tue, Oct 11 | Causal relationships |
 Thu, Oct 13 | Experimental design |
 ~~Tue, Oct 18~~ | ~~Fall break, no class~~ |
