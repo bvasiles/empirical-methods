@@ -74,11 +74,11 @@ Tue, Sep 27 | [Survey design](pages/sep27-surveys.md) | [slides](slides/08-surve
 Thu, Sep 29 | Recitation - Qualitative coding & Thematic analysis | no slides • no video
 Tue, Oct 4 | Project proposal presentations | no slides • no video
 Thu, Oct 6 | [Mixed-methods designs](pages/oct06-mixed-methods.md) | [slides](slides/10-mixed-methods.pdf) • [video](https://youtu.be/jzjjhUwocrM)
-Tue, Oct 11 | [Experimental design (part I: causal relationships, within-vs-between subjects)](pages/oct11-causal-relationships.md) | [slides](slides/11-experiments-1.pdf) • [video](https://www.youtube.com/watch?v=C8XDgb8Mxnw)
-Thu, Oct 13 | [Experimental design (part II: counterbalancing, example papers)](pages/oct13-counterbalancing.md) | [slides](slides/12-experiments-2.pdf) • [video](https://www.youtube.com/watch?v=YtyjsgWsgNU)
+Tue, Oct 11 | [Experimental design (part I)](pages/oct11-causal-relationships.md) | [slides](slides/11-experiments-1.pdf) • [video](https://www.youtube.com/watch?v=C8XDgb8Mxnw)
+Thu, Oct 13 | [Experimental design (part II)](pages/oct13-counterbalancing.md) | [slides](slides/12-experiments-2.pdf) • [video](https://www.youtube.com/watch?v=YtyjsgWsgNU)
 ~~Tue, Oct 18~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 20~~ | ~~Fall break, no class~~ |
-Tue, Oct 25 | [Experimental design (part III: statistical conclusion validity)](pages/oct25-experiment-stats.md) | [slides](slides/13-experiments-3.pdf)
+Tue, Oct 25 | [Experimental design (part III)](pages/oct25-experiment-stats.md) | [slides](slides/13-experiments-3.pdf)
 Thu, Oct 27 | Intro to regression modeling + diagnostics |
 Tue, Nov 1 | Standardized coefficients + Mixed-effects |
 Thu, Nov 3 | Exemplar regression papers |
