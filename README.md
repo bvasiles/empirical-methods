@@ -74,21 +74,21 @@ Tue, Sep 27 | [Survey design](pages/sep27-surveys.md) | [slides](slides/08-surve
 Thu, Sep 29 | Recitation - Qualitative coding & Thematic analysis | no slides • no video
 Tue, Oct 4 | Project proposal presentations | no slides • no video
 Thu, Oct 6 | [Mixed-methods designs](pages/oct06-mixed-methods.md) | [slides](slides/10-mixed-methods.pdf) • [video](https://youtu.be/jzjjhUwocrM)
-Tue, Oct 11 | Causal relationships |
-Thu, Oct 13 | Experimental design |
+Tue, Oct 11 | [Experimental design (part I: causal relationships, within-vs-between subjects)](pages/oct11-causal-relationships.md) | [slides](slides/11-experiments-1.pdf) • [video](https://www.youtube.com/watch?v=C8XDgb8Mxnw)
+Thu, Oct 13 | [Experimental design (part II: counterbalancing, example papers)](pages/oct13-counterbalancing.md) | [slides](slides/12-experiments-2.pdf) • [video](https://www.youtube.com/watch?v=YtyjsgWsgNU)
 ~~Tue, Oct 18~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 20~~ | ~~Fall break, no class~~ |
-Tue, Oct 25 | Intro to regression modeling |
-Thu, Oct 27 | Linear regression diagnostics |
+Tue, Oct 25 | [Experimental design (part III: statistical conclusion validity)](pages/oct25-experiment-stats.md) | [slides](slides/13-experiments-3.pdf)
+Thu, Oct 27 | Intro to regression modeling + diagnostics |
 Tue, Nov 1 | Standardized coefficients + Mixed-effects |
 Thu, Nov 3 | Exemplar regression papers |
 Tue, Nov 8 | Simpson’s paradox + Mixed-effects |
 Thu, Nov 10 | Interrupted time series design |
-Tue, Nov 15 | Diff-in-diff + CausalImpact |
-Thu, Nov 17 | Research vs researcher |
-Tue, Nov 22 | Agree to disagree |
+Tue, Nov 15 | Social network analysis (part I) |
+Thu, Nov 17 | Social network analysis (part II) |
+Tue, Nov 22 | Diff-in-diff + CausalImpact |
 ~~Thu, Nov 24~~ | ~~Thanksgiving, no class~~ |
-Tue, Nov 29 | Social network analysis (part I) |
-Thu, Dec 1 | Social network analysis (part II) |
+Tue, Nov 29 | Research vs researcher |
+Thu, Dec 1 | Agree to disagree |
 Tue, Dec 6 | Final presentations (part I) |
 Thu, Dec 8 | Final presentations (part II) |
