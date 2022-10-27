@@ -1,4 +1,4 @@
-## L13: Experimental Design Part II - Stats ([pdf](../slides/13-experiments-3.pdf), video)
+## L13: Experimental Design Part II - Stats ([pdf](../slides/13-experiments-3.pdf), [video](https://www.youtube.com/watch?v=Qk8vNy3m3vU))
 
 [![Lecture13-Experiments](../assets/images/13-experiments-3.jpeg)](../slides/13-experiments-3.pdf)
 
