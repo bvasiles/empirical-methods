@@ -79,8 +79,8 @@ Thu, Oct 13 | [Experimental design (part II)](pages/oct13-counterbalancing.md) |
 ~~Tue, Oct 18~~ | ~~Fall break, no class~~ |
 ~~Thu, Oct 20~~ | ~~Fall break, no class~~ |
 Tue, Oct 25 | [Experimental design (part III)](pages/oct25-experiment-stats.md) | [slides](slides/13-experiments-3.pdf) • [video](https://www.youtube.com/watch?v=Qk8vNy3m3vU)
-Thu, Oct 27 | [Intro to regression modeling + diagnostics](pages/oct27-regression-pt1.md) | [slides](slides/14-regression-1.pdf)
-Tue, Nov 1 | Standardized coefficients + Mixed-effects |
+Thu, Oct 27 | [Intro to regression modeling](pages/oct27-regression-pt1.md) | [slides](slides/14-regression-1.pdf) • [video](https://youtu.be/HTC7dPY-F34)
+Tue, Nov 1 | [Diagnostics, factors, std coefficients](pages/nov01-regression-pt2.md) | [slides](slides/15-regression-2.pdf) • [video](https://www.youtube.com/watch?v=5p8wtSmwkEE)
 Thu, Nov 3 | Exemplar regression papers |
 Tue, Nov 8 | Simpson’s paradox + Mixed-effects |
 Thu, Nov 10 | Interrupted time series design |

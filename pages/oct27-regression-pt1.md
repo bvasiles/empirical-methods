@@ -1,4 +1,4 @@
-## L14: Intro to Linear Regression ([pdf](../slides/14-regression-1.pdf), video)
+## L14: Intro to Linear Regression ([pdf](../slides/14-regression-1.pdf), [video](https://youtu.be/HTC7dPY-F34))
 
 [![Lecture14-Regression-Intro](../assets/images/14-regression-1.jpeg)](../slides/14-regression-1.pdf)
 
