@@ -71,7 +71,7 @@ Thu, Sep 15 | [Exemplar interview papers](pages/sep15-interviews-examples.md) | 
 Tue, Sep 20 | [Qualitative data analysis](pages/sep20-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/Wfi1s66Ig34)
 ~~Thu, Sep 22~~ | ~~Class cancelled for the [S3D launch event](https://www.cs.cmu.edu/news/2022/isr-s3d-rebrand)~~ |
 Tue, Sep 27 | [Survey design](pages/sep27-surveys.md) | [slides](slides/08-survey-design.pdf) • [video](https://youtu.be/Iymyk26pOaQ)
-Thu, Sep 29 | Recitation - Qualitative coding & Thematic analysis | no slides • no video
+Thu, Sep 29 | In-class activity: qualitative coding & thematic analysis | no slides • no video
 Tue, Oct 4 | Project proposal presentations | no slides • no video
 Thu, Oct 6 | [Mixed-methods designs](pages/oct06-mixed-methods.md) | [slides](slides/10-mixed-methods.pdf) • [video](https://youtu.be/jzjjhUwocrM)
 Tue, Oct 11 | [Experimental design (part I)](pages/oct11-causal-relationships.md) | [slides](slides/11-experiments-1.pdf) • [video](https://www.youtube.com/watch?v=C8XDgb8Mxnw)
