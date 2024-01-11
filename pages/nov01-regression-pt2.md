@@ -2,7 +2,7 @@
 
 [![Lecture15-Regression-Diagnostics](../assets/images/15-regression-2.jpeg)](../slides/15-regression-2.pdf)
 
-This is the second lecture in a series dedicated to regression modeling. We talked about some of the things that can go wrong when estimating linear models and how to diagnose those.
+This is the second lecture in a series dedicated to regression modeling. We talked about some of the things that can go wrong when estimating linear models and how to diagnose those, how to model categorical variables and interpret the corresponding regression coefficients, how to model and interpret interaction effects, and how to work with standardized regression coefficients.
 
 The importance of having a good understanding of linear regression before studying more complex statistical models cannot be overstated.
 
