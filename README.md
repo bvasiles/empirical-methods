@@ -82,8 +82,8 @@ Tue, Oct 25 | [Experimental design (part III)](pages/oct25-experiment-stats.md) 
 Thu, Oct 27 | [Intro to regression modeling](pages/oct27-regression-pt1.md) | [slides](slides/14-regression-1.pdf) • [video](https://youtu.be/HTC7dPY-F34)
 Tue, Nov 1 | [Diagnostics, factors, std coefficients](pages/nov01-regression-pt2.md) | [slides](slides/15-regression-2.pdf) • [video](https://www.youtube.com/watch?v=5p8wtSmwkEE)
 Thu, Nov 3 | [Simpson’s paradox, exemplar papers, in-class activity](pages/nov03-regression-pt3.md) | [slides](slides/16-regression-3.pdf) • [video](https://youtu.be/icvF44USI_s)
-Tue, Nov 8 | Mixed-effects |
-Thu, Nov 10 | Interrupted time series design |
+Tue, Nov 8 | [Interrupted time series design](pages/) | [slides](slides/17-time-series.pdf) • [video](https://youtu.be/wuDfI71oPVs)
+Thu, Nov 10 | Mixed-effects |
 Tue, Nov 15 | Social network analysis (part I) |
 Thu, Nov 17 | Social network analysis (part II) |
 Tue, Nov 22 | Diff-in-diff + CausalImpact |
