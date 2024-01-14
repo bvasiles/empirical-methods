@@ -90,5 +90,5 @@ Tue, Nov 22 | [Diff-in-diff + CausalImpact](pages/nov22-diff-in-diff.md) | [slid
 ~~Thu, Nov 24~~ | ~~Thanksgiving, no class~~ |
 Tue, Nov 29 | [Research vs researcher](pages/nov29-research-vs-researchers.md) | [video](https://youtu.be/q83a9O3WY2Q)
 Thu, Dec 1 | [Agree to disagree](pages/dec01-agree-to-disagree.md) | [video](https://youtu.be/nE0AHonCsWA)
-Tue, Dec 6 | Final presentations (part I) |
-Thu, Dec 8 | Final presentations (part II) |
+Tue, Dec 6 | Final presentations (part I) | [slides](https://docs.google.com/presentation/d/1ADiATHlUdxITsblR_BCqW7nvZ3I3HJc2xkM1BMishG0/edit?usp=sharing) • [video](https://youtu.be/GjJgy9eLZO0)
+Thu, Dec 8 | Final presentations (part II) | [slides](https://docs.google.com/presentation/d/1ADiATHlUdxITsblR_BCqW7nvZ3I3HJc2xkM1BMishG0/edit?usp=sharing) • [video](https://youtu.be/1UeCqSxmLlY)
