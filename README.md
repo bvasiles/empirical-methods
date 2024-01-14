@@ -84,8 +84,8 @@ Tue, Nov 1 | [Diagnostics, factors, std coefficients](pages/nov01-regression-pt2
 Thu, Nov 3 | [Simpson’s paradox, exemplar papers, in-class activity](pages/nov03-regression-pt3.md) | [slides](slides/16-regression-3.pdf) • [video](https://youtu.be/icvF44USI_s)
 Tue, Nov 8 | [Interrupted time series design](pages/nov08-its.md) | [slides](slides/17-time-series.pdf) • [video](https://youtu.be/wuDfI71oPVs)
 Thu, Nov 10 | [In-class activity: interrupted time series analysis](pages/nov10-its-activity.md) | [slides](slides/18-time-series-activity.pdf) • [video](https://youtu.be/PzQphPhwD3E)
-Tue, Nov 15 | Social network analysis (part I) |
-Thu, Nov 17 | Social network analysis (part II) |
+Tue, Nov 15 | [Social network analysis (part I)](pages/nov15-sna-pt1.md) | [slides](slides/19-social-networks-1.pdf) • [video](https://youtu.be/2Da82Nc2cYY)
+Thu, Nov 17 | [Social network analysis (part II)](pages/nov17-sna-pt2.md) | [slides](slides/20-social-networks-2.pdf) • [video](https://youtu.be/LeRhO2QUZaU)
 Tue, Nov 22 | Diff-in-diff + CausalImpact |
 ~~Thu, Nov 24~~ | ~~Thanksgiving, no class~~ |
 Tue, Nov 29 | Research vs researcher |
