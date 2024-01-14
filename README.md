@@ -86,7 +86,7 @@ Tue, Nov 8 | [Interrupted time series design](pages/nov08-its.md) | [slides](sli
 Thu, Nov 10 | [In-class activity: interrupted time series analysis](pages/nov10-its-activity.md) | [slides](slides/18-time-series-activity.pdf) • [video](https://youtu.be/PzQphPhwD3E)
 Tue, Nov 15 | [Social network analysis (part I)](pages/nov15-sna-pt1.md) | [slides](slides/19-social-networks-1.pdf) • [video](https://youtu.be/2Da82Nc2cYY)
 Thu, Nov 17 | [Social network analysis (part II)](pages/nov17-sna-pt2.md) | [slides](slides/20-social-networks-2.pdf) • [video](https://youtu.be/LeRhO2QUZaU)
-Tue, Nov 22 | Diff-in-diff + CausalImpact |
+Tue, Nov 22 | [Diff-in-diff + CausalImpact](pages/nov22-diff-in-diff.md) | [slides](slides/21-diff-in-diff.pdf) • [video](https://youtu.be/IZXPdvceOZQ)
 ~~Thu, Nov 24~~ | ~~Thanksgiving, no class~~ |
 Tue, Nov 29 | Research vs researcher |
 Thu, Dec 1 | Agree to disagree |
