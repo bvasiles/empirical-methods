@@ -1,10 +1,10 @@
-## L17: Segmented Regression of Interrupted Time Series Data ([pdf](../slides/17-time-series.pdf), [video](https://youtu.be/wuDfI71oPVs))
+## L18: Segmented Regression of Interrupted Time Series Data ([pdf](../slides/18-time-series-activity.pdf), [video](https://youtu.be/PzQphPhwD3E))
 
-[![Lecture17-Interrupted-Time-Series](../assets/images/17-time-series.jpeg)](../slides/17-time-series.pdf)
+[![Lecture18-Interrupted-Time-Series](../assets/images/18-time-series-activity.jpeg)](../slides/18-time-series-activity.pdf)
 
 Interrupted time series is a valuable study design for evaluating the effectiveness of interventions. A segmented regression approach can be used to analyze an interrupted time series study by testing the effect of an intervention on the outcome of interest using an appropriately defined impact model. A typical scenario involves testing the degree to which a treatment shifts the underlying trajectory of an outcome.
 
-In this lecture we go over the seasonality-trend decomposition of time series and discuss methodological considerations specific to interrupted time series analysis. (But first we have a few leftovers from the previous lecture, including the Lim Wikipedia paper.)
+We spend this lecture doing an [interrupted time series analysis in R](../assets/activities/in-class-its-activity.pdf). You can download the [data](../assets/activities/ITS%20in-class.zip) and follow along.
 
 
 ### Lecture Readings
