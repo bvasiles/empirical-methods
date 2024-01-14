@@ -88,7 +88,7 @@ Tue, Nov 15 | [Social network analysis (part I)](pages/nov15-sna-pt1.md) | [slid
 Thu, Nov 17 | [Social network analysis (part II)](pages/nov17-sna-pt2.md) | [slides](slides/20-social-networks-2.pdf) • [video](https://youtu.be/LeRhO2QUZaU)
 Tue, Nov 22 | [Diff-in-diff + CausalImpact](pages/nov22-diff-in-diff.md) | [slides](slides/21-diff-in-diff.pdf) • [video](https://youtu.be/IZXPdvceOZQ)
 ~~Thu, Nov 24~~ | ~~Thanksgiving, no class~~ |
-Tue, Nov 29 | Research vs researcher |
-Thu, Dec 1 | Agree to disagree |
+Tue, Nov 29 | [Research vs researcher](pages/nov29-research-vs-researchers.md) | [video](https://youtu.be/q83a9O3WY2Q)
+Thu, Dec 1 | [Agree to disagree](pages/dec01-agree-to-disagree.md) | [video](https://youtu.be/nE0AHonCsWA)
 Tue, Dec 6 | Final presentations (part I) |
 Thu, Dec 8 | Final presentations (part II) |
