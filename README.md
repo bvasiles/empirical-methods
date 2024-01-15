@@ -1,7 +1,7 @@
 [![Empirical Methods](assets/promo/promo.001.jpeg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
 (thanks for the promo, [@JoshQuicksall](https://twitter.com/JoshQuicksall)!)
 
-**This is the Fall 2022 offering of this course. For older versions, see here: [Spring 2021](spring-2021/) • [Fall 2018](fall-2018/).**
+**This is the Spring 2024 offering of this course. For older versions, see here: [Fall 2022](fall-2022/) • [Spring 2021](spring-2021/) • [Fall 2018](fall-2018/).**
 
 ### Overview
 
@@ -35,12 +35,12 @@ After completing this course, you will:
 As a side effect, this course helps you develop a healthy dose of skepticism towards scientific results in general. Does the study design really allow the authors to make certain claims? Does the analysis technique? Is the evidence provided as strong as it could be? Are there fundamental flaws and threats to validity?
 
 ### Coordinates
-- Lectures: Tuesdays & Thursdays 3:05-4:25pm, Eastern Time
-- Assignments, private announcements: [Canvas](https://canvas.cmu.edu/courses/31674)
+- Lectures: Tuesdays & Thursdays 3:30-4:50pm, Eastern Time in WEH 4708
+- Assignments, private announcements: [Canvas](https://canvas.cmu.edu/courses/39794)
 - Slides: this website
 - Reading materials: [Shared Google Drive folder](https://drive.google.com/drive/folders/1lSOQlbw-cRmT47_itpIJkTZua_IASNgB?usp=sharing) accessible with CMU login
 - Instructor: [Bogdan Vasilescu](https://bvasiles.github.io)
-- Teaching assistant: [Hongbo Fang](https://www.cmu.edu/news/stories/archives/2022/june/open-source-software.html)
+<!-- - Teaching assistant: -->
 
 ### Course Syllabus and Policies
 The [syllabus](syllabus.md) covers course overview and objectives, evaluation, 
@@ -55,40 +55,40 @@ written project reports, and in-class presentations.
 
 ### Schedule
 
-Below is a preliminary schedule for Fall 2022. Each link points to a dedicated page with materials and more details.
+Below is a preliminary schedule for Spring 2024. Each link points to a dedicated page with materials and more details.
 All videos are published on [this YouTube channel](https://youtube.com/playlist?list=PLuPUOEODcOmsS409iKohAewobtQswdI7M).
 
 *Note*: The schedule is subject to change and will be updated as the semester progresses. 
 
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
-Tue, Aug 30 | [Introduction](pages/aug30-intro.md) | [slides](slides/01-intro.pdf) • [video](https://youtu.be/IDtePCle3Qc)
-Thu, Sep 1 | [Formulating research questions](pages/sep01-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://youtu.be/tQDMPCnd7rc)
-Tue, Sep 6 | [The role of theory](pages/sep06-theory.md) | [slides](slides/03-theory.pdf) • [video](https://youtu.be/NEgRVKd1zzI)
-Thu, Sep 8 | [Literature review](pages/sep08-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/DWImirSZXaA)
-Tue, Sep 13 | [Conducting interviews](pages/sep13-interviews.md) | [slides](slides/05-interviewing.pdf) • [video](https://youtu.be/OJRXFEe80Rk)
-Thu, Sep 15 | [Exemplar interview papers](pages/sep15-interviews-examples.md) | [slides](slides/06-interviewing-examples.pdf) • [video](https://youtu.be/7IXzoeohyLE)
-Tue, Sep 20 | [Qualitative data analysis](pages/sep20-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/Wfi1s66Ig34)
-~~Thu, Sep 22~~ | ~~Class cancelled for the [S3D launch event](https://www.cs.cmu.edu/news/2022/isr-s3d-rebrand)~~ |
-Tue, Sep 27 | [Survey design](pages/sep27-surveys.md) | [slides](slides/08-survey-design.pdf) • [video](https://youtu.be/Iymyk26pOaQ)
-Thu, Sep 29 | In-class activity: qualitative coding & thematic analysis | no slides • no video
-Tue, Oct 4 | Project proposal presentations | no slides • no video
-Thu, Oct 6 | [Mixed-methods designs](pages/oct06-mixed-methods.md) | [slides](slides/10-mixed-methods.pdf) • [video](https://youtu.be/jzjjhUwocrM)
-Tue, Oct 11 | [Experimental design (part I)](pages/oct11-causal-relationships.md) | [slides](slides/11-experiments-1.pdf) • [video](https://www.youtube.com/watch?v=C8XDgb8Mxnw)
-Thu, Oct 13 | [Experimental design (part II)](pages/oct13-counterbalancing.md) | [slides](slides/12-experiments-2.pdf) • [video](https://www.youtube.com/watch?v=YtyjsgWsgNU)
-~~Tue, Oct 18~~ | ~~Fall break, no class~~ |
-~~Thu, Oct 20~~ | ~~Fall break, no class~~ |
-Tue, Oct 25 | [Experimental design (part III)](pages/oct25-experiment-stats.md) | [slides](slides/13-experiments-3.pdf) • [video](https://www.youtube.com/watch?v=Qk8vNy3m3vU)
-Thu, Oct 27 | [Intro to regression modeling](pages/oct27-regression-pt1.md) | [slides](slides/14-regression-1.pdf) • [video](https://youtu.be/HTC7dPY-F34)
-Tue, Nov 1 | [Diagnostics, factors, std coefficients](pages/nov01-regression-pt2.md) | [slides](slides/15-regression-2.pdf) • [video](https://www.youtube.com/watch?v=5p8wtSmwkEE)
-Thu, Nov 3 | [Simpson’s paradox, exemplar papers, in-class activity](pages/nov03-regression-pt3.md) | [slides](slides/16-regression-3.pdf) • [video](https://youtu.be/icvF44USI_s)
-Tue, Nov 8 | [Interrupted time series design](pages/nov08-its.md) | [slides](slides/17-time-series.pdf) • [video](https://youtu.be/wuDfI71oPVs)
-Thu, Nov 10 | [In-class activity: interrupted time series analysis](pages/nov10-its-activity.md) | [slides](slides/18-time-series-activity.pdf) • [video](https://youtu.be/PzQphPhwD3E)
-Tue, Nov 15 | [Social network analysis (part I)](pages/nov15-sna-pt1.md) | [slides](slides/19-social-networks-1.pdf) • [video](https://youtu.be/2Da82Nc2cYY)
-Thu, Nov 17 | [Social network analysis (part II)](pages/nov17-sna-pt2.md) | [slides](slides/20-social-networks-2.pdf) • [video](https://youtu.be/LeRhO2QUZaU)
-Tue, Nov 22 | [Diff-in-diff + CausalImpact](pages/nov22-diff-in-diff.md) | [slides](slides/21-diff-in-diff.pdf) • [video](https://youtu.be/IZXPdvceOZQ)
-~~Thu, Nov 24~~ | ~~Thanksgiving, no class~~ |
-Tue, Nov 29 | [Research vs researcher](pages/nov29-research-vs-researchers.md) | [video](https://youtu.be/q83a9O3WY2Q)
-Thu, Dec 1 | [Agree to disagree](pages/dec01-agree-to-disagree.md) | [video](https://youtu.be/nE0AHonCsWA)
-Tue, Dec 6 | Final presentations (part I) | [slides](https://docs.google.com/presentation/d/1ADiATHlUdxITsblR_BCqW7nvZ3I3HJc2xkM1BMishG0/edit?usp=sharing) • [video](https://youtu.be/GjJgy9eLZO0)
-Thu, Dec 8 | Final presentations (part II) | [slides](https://docs.google.com/presentation/d/1ADiATHlUdxITsblR_BCqW7nvZ3I3HJc2xkM1BMishG0/edit?usp=sharing) • [video](https://youtu.be/1UeCqSxmLlY)
+Tue, Jan 16 | Introduction | 
+Thu, Jan 18 | Formulating research questions | 
+Tue, Jan 23 | The role of theory | 
+Thu, Jan 25 | Literature review | 
+Tue, Jan 30 | Conducting interviews | 
+Thu, Feb 1 | TBD | 
+Tue, Feb 6 | Exemplar interview papers | 
+Thu, Feb 8 | Qualitative data analysis |
+Tue, Feb 13 | Survey design | 
+Thu, Feb 15 | In-class activity: qualitative coding & thematic analysis | 
+Tue, Feb 20 | Project proposal presentations | 
+Thu, Feb 22 | Mixed-methods designs | 
+Tue, Feb 27 | Experimental design (part I) | 
+Thu, Feb 29 | Experimental design (part II) | 
+~~Tue, Mar 5~~ | ~~Spring break, no class~~ |
+~~Thu, Mar 7~~ | ~~Spring break, no class~~ |
+Tue, Mar 12 | Experimental design (part III) | 
+Thu, Mar 14 | Intro to regression modeling | 
+Tue, Mar 19 | Diagnostics, factors, std coefficients | 
+Thu, Mar 21 | Simpson’s paradox, exemplar papers, in-class activity | 
+Tue, Mar 26 | Interrupted time series design | 
+Thu, Mar 28 | In-class activity: interrupted time series analysis | 
+Tue, Apr 2 | Social network analysis (part I) | 
+Thu, Apr 4 | Social network analysis (part II) | 
+Tue, Apr 9 | Diff-in-diff + CausalImpact | 
+~~Thu, Apr 11~~ | ~~Carnival, no class~~ |
+Tue, Apr 16 | Research vs researcher | 
+Thu, Apr 18 | Agree to disagree | 
+Tue, Apr 23 | Final presentations (part I) | 
+Thu, Apr 25 | Final presentations (part II) | 
