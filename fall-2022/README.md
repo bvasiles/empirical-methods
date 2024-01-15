@@ -1,7 +1,7 @@
 [![Empirical Methods](assets/promo/promo.001.jpeg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
 (thanks for the promo, [@JoshQuicksall](https://twitter.com/JoshQuicksall)!)
 
-**This is the Fall 2022 offering of this course. For older versions, see here: [Spring 2021](spring-2021/) • [Fall 2018](fall-2018/).**
+<span style="color:red">**This is the archived site for the Fall 2022 offering of this course. Go to the current offering *[here](https://bvasiles.github.io/empirical-methods)*.**</span>
 
 ### Overview
 
