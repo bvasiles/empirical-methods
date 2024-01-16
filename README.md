@@ -62,7 +62,7 @@ All videos are published on [this YouTube channel](https://youtube.com/playlist?
 
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
-Tue, Jan 16 | Introduction | 
+Tue, Jan 16 | [Introduction](pages/jan16-intro.md) | [slides](slides/01-intro.pdf)
 Thu, Jan 18 | Formulating research questions | 
 Tue, Jan 23 | The role of theory | 
 Thu, Jan 25 | Literature review | 
