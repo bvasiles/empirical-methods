@@ -63,8 +63,8 @@ All videos are published on [this YouTube channel](https://youtube.com/playlist?
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
 Tue, Jan 16 | [Introduction](pages/jan16-intro.md) | [slides](slides/01-intro.pdf)
-Thu, Jan 18 | [Formulating research questions](pages/jan18-rqs.md) | [slides](slides/02-rqs.pdf)
-Tue, Jan 23 | The role of theory | 
+Thu, Jan 18 | [Formulating research questions](pages/jan18-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://youtu.be/tvapW-H4R9A)
+Tue, Jan 23 | [The role of theory](pages/jan23-theory.md) | [slides](slides/03-theory.pdf) • [video](https://youtu.be/Kdu68doozkQ)
 Thu, Jan 25 | Literature review | 
 Tue, Jan 30 | Conducting interviews | 
 Thu, Feb 1 | TBD | 
