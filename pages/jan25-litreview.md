@@ -1,4 +1,4 @@
-## L4: Literature Review ([pdf](../slides/04-litreview.pdf), video)
+## L4: Literature Review ([pdf](../slides/04-litreview.pdf), [video](https://youtu.be/xmUd7hrGKSg))
 
 [![Lecture4-LitReview](../assets/images/04-litreview.jpg)](../slides/04-litreview.pdf)
 
@@ -13,6 +13,8 @@ There are three components to a well-done literature review:
 3. Articulate a **hook** that convinces readers that this gap is of consequence.
 
 We disect the literature reviews in two example papers and discuss how each articulates its problem, gap, and hook.
+
+*Note*: Sadly the video recording of us discussing the in-class activity is lost. See the slide deck and the problem / gap / hook reading for details.
 
 ### Exemplars
 
