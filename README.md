@@ -66,7 +66,7 @@ Tue, Jan 16 | [Introduction](pages/jan16-intro.md) | [slides](slides/01-intro.pd
 Thu, Jan 18 | [Formulating research questions](pages/jan18-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://youtu.be/tvapW-H4R9A)
 Tue, Jan 23 | [The role of theory](pages/jan23-theory.md) | [slides](slides/03-theory.pdf) • [video](https://youtu.be/Kdu68doozkQ)
 Thu, Jan 25 | [Literature review](pages/jan25-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/xmUd7hrGKSg)
-Tue, Jan 30 | Exemplar interview papers | [slides](slides/05-interviewing-examples.pdf)
+Tue, Jan 30 | [Exemplar interview papers](pages/jan30-interviews-examples.md) | [slides](slides/05-interviewing-examples.pdf)
 Thu, Feb 1 | ~~No class (Bogdan traveling)~~ | 
 Tue, Feb 6 | Conducting interviews | 
 Thu, Feb 8 | Qualitative data analysis |
