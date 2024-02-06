@@ -68,7 +68,7 @@ Tue, Jan 23 | [The role of theory](pages/jan23-theory.md) | [slides](slides/03-t
 Thu, Jan 25 | [Literature review](pages/jan25-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/xmUd7hrGKSg)
 Tue, Jan 30 | [Exemplar interview papers](pages/jan30-interviews-examples.md) | [slides](slides/05-interviewing-examples.pdf)
 Thu, Feb 1 | ~~No class (Bogdan traveling)~~ | 
-Tue, Feb 6 | Conducting interviews | 
+Tue, Feb 6 | [Conducting interviews](pages/feb06-interviews.md) | [slides](slides/06-interviewing.pdf) • [video]()
 Thu, Feb 8 | Qualitative data analysis |
 Tue, Feb 13 | Survey design | 
 Thu, Feb 15 | In-class activity: qualitative coding & thematic analysis | 
