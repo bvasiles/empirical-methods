@@ -1,4 +1,4 @@
-## L7: Qualitative Analysis ([pdf](../slides/07-qualitative-coding.pdf), video)
+## L7: Qualitative Analysis ([pdf](../slides/07-qualitative-coding.pdf), [video](https://youtu.be/rlfYq7jIjxU))
 
 [![Lecture7-Qualitative-Analysis](../assets/images/07-qualitative-coding.jpg)](../slides/07-qualitative-coding.pdf)
 
