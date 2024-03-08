@@ -70,12 +70,12 @@ Tue, Jan 30 | [Exemplar interview papers](pages/jan30-interviews-examples.md) | 
 Thu, Feb 1 | ~~No class (Bogdan traveling)~~ | 
 Tue, Feb 6 | [Conducting interviews](pages/feb06-interviews.md) | [slides](slides/06-interviewing.pdf) • [video](https://youtu.be/HuA6hB0_rpM)
 Thu, Feb 8 | [Qualitative data analysis](pages/feb08-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/rlfYq7jIjxU)
-Tue, Feb 13 | Survey design | 
-Thu, Feb 15 | In-class activity: qualitative coding & thematic analysis | 
-Tue, Feb 20 | Project proposal presentations | 
-Thu, Feb 22 | Mixed-methods designs | 
-Tue, Feb 27 | Experimental design (part I) | 
-Thu, Feb 29 | Experimental design (part II) | 
+Tue, Feb 13 | [In-class activity: qualitative coding & thematic analysis](pages/feb12-coding-hands-on.md) | [slides](slides/08-qualitative-coding-recitation.pdf)
+Thu, Feb 15 | [Qualitative analysis in the age of LLMs](pages) | 
+Tue, Feb 20 | [Project proposal presentations](pages) | 
+Thu, Feb 22 | [Types of errors in probability survey research](pages) | 
+Tue, Feb 27 | [Questionnaire design and multi-item scales](pages) | 
+Thu, Feb 29 | Experimental design | 
 ~~Tue, Mar 5~~ | ~~Spring break, no class~~ |
 ~~Thu, Mar 7~~ | ~~Spring break, no class~~ |
 Tue, Mar 12 | Experimental design (part III) | 
