@@ -1,4 +1,4 @@
-## Hands-On: Qualitative Analysis 
+## Hands-On: Qualitative Analysis ([pdf](../slides/08-qualitative-coding-recitation.pdf))
 
 [![Lecture8-Qualitative-Analysis](../assets/images/08-qualitative-coding-recitation.jpg)](../slides/08-qualitative-coding-recitation.pdf)
 
