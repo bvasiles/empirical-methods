@@ -72,7 +72,7 @@ Tue, Feb 6 | [Conducting interviews](pages/feb06-interviews.md) | [slides](slide
 Thu, Feb 8 | [Qualitative data analysis](pages/feb08-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/rlfYq7jIjxU)
 Tue, Feb 13 | [In-class activity: qualitative coding & thematic analysis](pages/feb12-coding-hands-on.md) | [slides](slides/08-qualitative-coding-recitation.pdf)
 Thu, Feb 15 | [Qualitative analysis in the age of LLMs](pages/feb15-coding-with-llms.md) | [slides](slides/09-qualitative-coding-llms.pdf)
-Tue, Feb 20 | [Project proposal presentations](pages) | 
+Tue, Feb 20 | [Project proposal presentations](pages/feb20-proposals.md) | [slides](slides/10-proposals.pdf)
 Thu, Feb 22 | [Types of errors in probability survey research](pages) | 
 Tue, Feb 27 | [Questionnaire design and multi-item scales](pages) | 
 Thu, Feb 29 | Experimental design | 
