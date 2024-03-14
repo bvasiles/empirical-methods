@@ -75,7 +75,7 @@ Thu, Feb 15 | [Qualitative analysis in the age of LLMs](pages/feb15-coding-with-
 Tue, Feb 20 | [Project proposal presentations](pages/feb20-proposals.md) | [slides](slides/10-proposals.pdf)
 Thu, Feb 22 | [Types of errors in probability survey research](pages/feb22-surveys-pt1.md) | [slides](slides/11-survey-design-pt1.pdf)
 Tue, Feb 27 | [Questionnaire design and multi-item scales](pages/feb27-surveys-pt2.md) | [slides](slides/12-survey-design-pt2.pdf)
-Thu, Feb 29 | Experimental design | 
+Thu, Feb 29 | [Experimental design](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf)
 ~~Tue, Mar 5~~ | ~~Spring break, no class~~ |
 ~~Thu, Mar 7~~ | ~~Spring break, no class~~ |
 Tue, Mar 12 | Experimental design (part III) | 
