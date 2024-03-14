@@ -78,7 +78,7 @@ Tue, Feb 27 | [Questionnaire design and multi-item scales](pages/feb27-surveys-p
 Thu, Feb 29 | [Experimental design](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf)
 ~~Tue, Mar 5~~ | ~~Spring break, no class~~ |
 ~~Thu, Mar 7~~ | ~~Spring break, no class~~ |
-Tue, Mar 12 | Experimental design (part III) | 
+Tue, Mar 12 | [Example experimental papers](pages/mar12-experiments-examples.md) | [slides](slides/14-experiments-pt2.pdf)
 Thu, Mar 14 | Intro to regression modeling | 
 Tue, Mar 19 | Diagnostics, factors, std coefficients | 
 Thu, Mar 21 | Simpson’s paradox, exemplar papers, in-class activity | 

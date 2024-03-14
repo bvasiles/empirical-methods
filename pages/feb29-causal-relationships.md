@@ -4,7 +4,7 @@
 
 This lecture is the first part of a series on designing experiments. We discussed what it means for something to be a "cause" or an "effect," the three ingredients needed for establishing a causal relationship, and how experiments as a research method match the characteristics of causal relationships very well.
 
-We also discussed within-vs-between subjects designs and their trade-offs.
+We also discussed within-vs-between subjects designs and their trade-offs, as well as Latin Squares and counterbalancing.
 
 
 ### Lecture Readings
