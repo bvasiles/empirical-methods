@@ -80,7 +80,7 @@ Thu, Feb 29 | [Experimental design](pages/feb29-causal-relationships.md) | [slid
 ~~Thu, Mar 7~~ | ~~Spring break, no class~~ |
 Tue, Mar 12 | [Example experimental papers](pages/mar12-experiments-examples.md) | [slides](slides/14-experiments-pt2.pdf)
 Thu, Mar 14 | [Interaction effects and power analysis](pages/mar14-experiments-stats.md) | [slides](slides/15-experiments-pt3.pdf)
-Tue, Mar 19 | Diagnostics, factors, std coefficients | 
+Tue, Mar 19 | Regression modeling diagnostics | [slides](slides/16-regression-pt1.pdf)
 Thu, Mar 21 | Simpson’s paradox, exemplar papers, in-class activity | 
 Tue, Mar 26 | Interrupted time series design | 
 Thu, Mar 28 | In-class activity: interrupted time series analysis | 
