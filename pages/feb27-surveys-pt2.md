@@ -1,4 +1,4 @@
-## L12: Questionnaire Design and Multi-Item Scales ([pdf](../slides/12-survey-design-pt2.pdf))
+## L12: Questionnaire Design and Multi-Item Scales ([pdf](../slides/12-survey-design-pt2.pdf), [video](https://youtu.be/fzBbXhyfvhM))
 
 [![Lecture12-Survey-Design](../assets/images/12-surveys-pt2.jpg)](../slides/12-survey-design-pt2.pdf)
 
