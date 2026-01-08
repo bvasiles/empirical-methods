@@ -82,10 +82,10 @@ Tue, Mar 12 | [Experimental design papers](pages/mar12-experiments-examples.md) 
 Thu, Mar 14 | [Interaction effects](pages/mar14-experiments-stats.md) | [slides](slides/15-experiments-pt3.pdf)
 Tue, Mar 19 | [Regression modeling diagnostics](pages/mar19-regression-pt1.md) | [slides](slides/16-regression-pt1.pdf) • [video](https://youtu.be/B0EWuMce3vY)
 Thu, Mar 21 | [In-class activity: Galton families regression](pages/mar21-regression-pt2.md) | [slides](https://docs.google.com/document/d/1Z59QvGl_H5h3Dkah7kzr2qhoHXSBKk8hHUordpEI7Dk/edit?usp=sharing) • [video](https://youtu.be/hGpVgrDuOkA)
-Tue, Mar 26 | Interrupted time series design | 
-Thu, Mar 28 | In-class activity: interrupted time series analysis | 
-Tue, Apr 2 | Social network analysis (part I) | 
-Thu, Apr 4 | Social network analysis (part II) | 
+Tue, Mar 26 | [In-class activity: Simpson's paradox](pages/mar26-regression-pt3.md) | [notebook one](assets/activities/typingSpeed.pdf) • [notebook two](assets/activities/typingSpeed.pdf) • [video](https://youtu.be/_-0EzPHkp5s)
+Thu, Mar 28 |  | 
+Tue, Apr 2 | Interrupted time series design | 
+Thu, Apr 4 | In-class activity: interrupted time series analysis | 
 Tue, Apr 9 | Diff-in-diff + CausalImpact | 
 ~~Thu, Apr 11~~ | ~~Carnival, no class~~ |
 Tue, Apr 16 | Research vs researcher | 
