@@ -1,4 +1,4 @@
-## L11: Types of Errors in Probability Survey Research ([pdf](../slides/11-survey-design-pt1.pdf))
+## L11: Types of Errors in Probability Survey Research ([pdf](../slides/11-survey-design-pt1.pdf), [video](https://youtu.be/MGZ8WEq7YF4))
 
 [![Lecture11-Survey-Design](../assets/images/11-surveys-pt1.jpg)](../slides/11-survey-design-pt1.pdf)
 

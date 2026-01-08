@@ -73,7 +73,7 @@ Thu, Feb 8 | [Qualitative data analysis](pages/feb08-coding.md) | [slides](slide
 Tue, Feb 13 | [In-class activity: qualitative coding & thematic analysis](pages/feb12-coding-hands-on.md) | [slides](slides/08-qualitative-coding-recitation.pdf)
 Thu, Feb 15 | [Qualitative analysis in the age of LLMs](pages/feb15-coding-with-llms.md) | [slides](slides/09-qualitative-coding-llms.pdf)
 Tue, Feb 20 | [Project proposal presentations](pages/feb20-proposals.md) | [slides](slides/10-proposals.pdf)
-Thu, Feb 22 | [Types of errors in probability survey research](pages/feb22-surveys-pt1.md) | [slides](slides/11-survey-design-pt1.pdf)
+Thu, Feb 22 | [Types of errors in probability survey research](pages/feb22-surveys-pt1.md) | [slides](slides/11-survey-design-pt1.pdf) • [video](https://youtu.be/MGZ8WEq7YF4)
 Tue, Feb 27 | [Questionnaire design and multi-item scales](pages/feb27-surveys-pt2.md) | [slides](slides/12-survey-design-pt2.pdf)
 Thu, Feb 29 | [Experimental design](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf)
 ~~Tue, Mar 5~~ | ~~Spring break, no class~~ |
