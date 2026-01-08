@@ -1,4 +1,4 @@
-## L14: Experimental Design Part II - Examples ([pdf](../slides/14-experiments-pt2.pdf), [video]())
+## L14: Experimental Design Part II - Examples ([pdf](../slides/14-experiments-pt2.pdf), [video](https://youtu.be/m2eOHDPYz74))
 
 [![Lecture14-Experiments2](../assets/images/14-experiments-pt2.jpg)](../slides/14-experiments-pt2.pdf)
 

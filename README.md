@@ -75,11 +75,11 @@ Thu, Feb 15 | [Qualitative analysis in the age of LLMs](pages/feb15-coding-with-
 Tue, Feb 20 | [Project proposal presentations](pages/feb20-proposals.md) | [slides](slides/10-proposals.pdf)
 Thu, Feb 22 | [Types of errors in probability survey research](pages/feb22-surveys-pt1.md) | [slides](slides/11-survey-design-pt1.pdf) • [video](https://youtu.be/MGZ8WEq7YF4)
 Tue, Feb 27 | [Questionnaire design and multi-item scales](pages/feb27-surveys-pt2.md) | [slides](slides/12-survey-design-pt2.pdf) • [video](https://youtu.be/fzBbXhyfvhM)
-Thu, Feb 29 | [Experimental design](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf) • [video](https://youtu.be/JQfrDZoOwoc)
+Thu, Feb 29 | [Causal relationships and experimental design](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf) • [video](https://youtu.be/JQfrDZoOwoc)
 ~~Tue, Mar 5~~ | ~~Spring break, no class~~ |
 ~~Thu, Mar 7~~ | ~~Spring break, no class~~ |
-Tue, Mar 12 | [Example experimental papers](pages/mar12-experiments-examples.md) | [slides](slides/14-experiments-pt2.pdf)
-Thu, Mar 14 | [Interaction effects and power analysis](pages/mar14-experiments-stats.md) | [slides](slides/15-experiments-pt3.pdf)
+Tue, Mar 12 | [Experimental design papers](pages/mar12-experiments-examples.md) | [slides](slides/14-experiments-pt2.pdf) • [video](https://youtu.be/m2eOHDPYz74)
+Thu, Mar 14 | [Hypothesis testing](pages/mar14-experiments-stats.md) | [slides](slides/15-experiments-pt3.pdf)
 Tue, Mar 19 | Regression modeling diagnostics | [slides](slides/16-regression-pt1.pdf)
 Thu, Mar 21 | Simpson’s paradox, exemplar papers, in-class activity | 
 Tue, Mar 26 | Interrupted time series design | 
