@@ -1,4 +1,4 @@
-## L15: Experimental Design Part III - Stats ([pdf](../slides/15-experiments-pt3.pdf), [video]())
+## L15: Experimental Design Part III - Stats ([pdf](../slides/15-experiments-pt3.pdf))
 
 [![Lecture15-Experiments](../assets/images/15-experiments-pt3.jpg)](../slides/15-experiments-pt3.pdf)
 
