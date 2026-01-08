@@ -1,4 +1,4 @@
-## L9: Qualitative Analysis with Large Language Models ([pdf](../slides/09-coding-with-llms.pdf), video)
+## L9: Qualitative Analysis with Large Language Models ([pdf](../slides/09-qualitative-coding-llms.pdf), video)
 
 [![Lecture9-LLMs](../assets/images/09-qualitative-coding-llms.jpeg)](../slides/09-qualitative-coding-llms.pdf)
 
