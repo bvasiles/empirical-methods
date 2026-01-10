@@ -86,9 +86,9 @@ Tue, Mar 26 | [In-class activity: Simpson's paradox](pages/mar26-regression-pt3.
 Thu, Mar 28 | [Interrupted time series design](pages/mar28-its.md) | [slides](slides/19-time-series.pdf) • [video](https://youtu.be/IJ_ddr860co)
 Tue, Apr 2 | [Interrupted time series analysis with control](pages/apr02-its-exemplars.md) | [paper](https://www.degruyterbrill.com/document/doi/10.1515/em-2018-0010/html) • [video](https://youtu.be/M-vOosQaNdU)
 Thu, Apr 4 | [In-class activity: ITS with control](pages/apr04-its-with-control.md) | [notebook](assets/activities/its_synthetic_class.pdf) • [video](https://youtu.be/Kxmc5tNOIxQ)
-Tue, Apr 9 | Diff-in-diff + CausalImpact | 
+Tue, Apr 9 | [Dealing with controversy](pages/apr09-controversy.md) | [slides](https://docs.google.com/presentation/d/1d_1DVGUHtDwZrFYAMnvI6A6s9BncsozjEpDlUt7cIn4/edit?usp=sharing) • [video](https://youtu.be/ZKwkx03NrtE)
 ~~Thu, Apr 11~~ | ~~Carnival, no class~~ |
-Tue, Apr 16 | Research vs researcher | 
-Thu, Apr 18 | Agree to disagree | 
+~~Tue, Apr 16~~ | ~~No class (ICSE week)~~ | 
+~~Thu, Apr 18~~ | ~~No class (ICSE week)~~ | 
 Tue, Apr 23 | Final presentations (part I) | 
 Thu, Apr 25 | Final presentations (part II) | 
