@@ -1,6 +1,6 @@
 ## L20: Interrupted Time Series Analysis With Control ([paper](https://www.degruyterbrill.com/document/doi/10.1515/em-2018-0010/html), [video](https://youtu.be/M-vOosQaNdU))
 
-[![Lecture20-Interrupted-Time-Series-With-Control](../assets/images/20-time-series-with-control.jpeg)]([../slides/19-time-series.pdf](https://www.degruyterbrill.com/document/doi/10.1515/em-2018-0010/html))
+[![Lecture20-Interrupted-Time-Series-With-Control](../assets/images/20-time-series-with-control.jpeg)](https://www.degruyterbrill.com/document/doi/10.1515/em-2018-0010/html)
 
 We continued our discussion of interrupted time series analysis with a few exemplar papers, focusing on the methodology for analyzing interrupted time series with a control (Bottomley et al). The notebook I point to towards the end is [here](../assets/activities/its_with_control.pdf). The earlier interrupted time series analysis notebook is [here](../assets/activities/its.pdf).
 
