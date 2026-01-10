@@ -88,7 +88,7 @@ Tue, Apr 2 | [Interrupted time series analysis with control](pages/apr02-its-exe
 Thu, Apr 4 | [In-class activity: ITS with control](pages/apr04-its-with-control.md) | [notebook](assets/activities/its_synthetic_class.pdf) • [video](https://youtu.be/Kxmc5tNOIxQ)
 Tue, Apr 9 | [Dealing with controversy](pages/apr09-controversy.md) | [slides](https://docs.google.com/presentation/d/1d_1DVGUHtDwZrFYAMnvI6A6s9BncsozjEpDlUt7cIn4/edit?usp=sharing) • [video](https://youtu.be/ZKwkx03NrtE)
 ~~Thu, Apr 11~~ | ~~Carnival, no class~~ |
-~~Tue, Apr 16~~ | ~~No class (ICSE week)~~ | 
-~~Thu, Apr 18~~ | ~~No class (ICSE week)~~ | 
-Tue, Apr 23 | Final presentations (part I) | 
-Thu, Apr 25 | Final presentations (part II) | 
+Tue, Apr 16 | Guest lecture: Social network analysis (I) | [video](https://youtu.be/-pTwz1qLdqY)
+Thu, Apr 18 | Guest lecture: Social network analysis (II) | [video](https://youtu.be/knj6E-_NHtg)
+Tue, Apr 23 | Final presentations (I) | 
+Thu, Apr 25 | Final presentations (II) | 
