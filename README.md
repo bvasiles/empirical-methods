@@ -84,8 +84,8 @@ Tue, Mar 19 | [Regression modeling diagnostics](pages/mar19-regression-pt1.md) |
 Thu, Mar 21 | [In-class activity: Galton families regression](pages/mar21-regression-pt2.md) | [slides](https://docs.google.com/document/d/1Z59QvGl_H5h3Dkah7kzr2qhoHXSBKk8hHUordpEI7Dk/edit?usp=sharing) • [video](https://youtu.be/hGpVgrDuOkA)
 Tue, Mar 26 | [In-class activity: Simpson's paradox](pages/mar26-regression-pt3.md) | [notebook](assets/activities/mixedEffects.pdf) • [video](https://youtu.be/_-0EzPHkp5s)
 Thu, Mar 28 | [Interrupted time series design](pages/mar28-its.md) | [slides](slides/19-time-series.pdf) • [video](https://youtu.be/IJ_ddr860co)
-Tue, Apr 2 | [Interrupted time series analysis with control](pages/apr02-its-with-control.md) | [paper](https://www.degruyterbrill.com/document/doi/10.1515/em-2018-0010/html) • [video](https://youtu.be/M-vOosQaNdU)
-Thu, Apr 4 | In-class activity: interrupted time series analysis | 
+Tue, Apr 2 | [Interrupted time series analysis with control](pages/apr02-its-exemplars.md) | [paper](https://www.degruyterbrill.com/document/doi/10.1515/em-2018-0010/html) • [video](https://youtu.be/M-vOosQaNdU)
+Thu, Apr 4 | [In-class activity: ITS with control](pages/apr04-its-with-control.md) | [notebook](assets/activities/its_synthetic_class.pdf) • [video](https://youtu.be/Kxmc5tNOIxQ)
 Tue, Apr 9 | Diff-in-diff + CausalImpact | 
 ~~Thu, Apr 11~~ | ~~Carnival, no class~~ |
 Tue, Apr 16 | Research vs researcher | 
