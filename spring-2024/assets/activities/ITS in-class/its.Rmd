@@ -1,0 +1,167 @@
+---
+title: "Interrupted Time Series"
+output:
+  html_document:
+    df_print: paged
+---
+
+Let's create some data.
+
+Here's a positive relationship.
+
+```{r}
+j = 50
+
+a = data.frame(x=1:100, y=jitter(1:100, j))
+plot(a)
+```
+
+Here's a negative relationship.
+
+```{r}
+b = data.frame(x=101:200, y=jitter(100:1, j))
+bb = data.frame(x=101:200, y=jitter(seq(50,0.5,-0.5), 100))
+plot(bb)
+```
+
+Are these any different?
+
+```{r}
+boxplot(list(before=a$y,after=bb$y))
+t.test(a$y,b$y)
+```
+
+Let's display them side by side.
+
+```{r}
+plot(x=1:200, y=rep(1,200), type="n", ylim=c(0,100), 
+     xlab="time", ylab="y")
+abline(v=100)
+points(a$x, a$y, pch=2, col=2)
+points(bb$x, bb$y, pch=3, col=4)
+
+abline(lm(y~x, data=a), col=2)
+lines(x=1:100, y=lm(y~x, data=a)$fit, col=2)
+# abline(lm(y~x, data=bb), col=4)
+lines(x=101:200, y=lm(y~x, data=bb)$fit, col=4)
+```
+
+Let's simulate a change in level.
+
+```{r}
+a2 = data.frame(x=101:200, y=jitter(1:100, j))
+
+plot(x=1:200, y=rep(1,200), type="n", ylim=c(-50,150), 
+     xlab="time", ylab="y")
+abline(v=100)
+points(a$x, a$y, pch=2, col=2)
+points(a2$x, a2$y, pch=3, col=4)
+
+abline(lm(y~x, data=a), col=2)
+abline(lm(y~x, data=a2), col=4)
+```
+
+We can't capture that with a simple test.
+
+```{r}
+boxplot(list(before=a$y,after=a2$y))
+t.test(a$y,a2$y)
+```
+
+Now let's go back to the previous example:
+
+```{r}
+m = rbind(a, data.frame(x=101:200, y=jitter(seq(50,0.5,-0.5), j)))
+plot(m$x, m$y, xlab="time", ylab="y")
+```
+
+Here's what a simple model might look like:
+
+```{r}
+summary(lm(y~x, data=m))
+```
+
+Let's see if we can model those trends and change in level explicitly.
+
+```{r}
+m$time = m$x
+m$intervention = m$time > 100
+m$time_after_intervention = ifelse(m$time > 100, m$time - 100, 0)
+
+m$time
+m$intervention
+m$time_after_intervention
+
+rdd = lm(y ~ time + intervention + time_after_intervention, data=m)
+summary(rdd)
+
+```
+
+Q: Can you achieve the same result (i.e., capture both trends and the change in level) with only two variables?
+A: Yes, with an interaction term!
+
+```{r}
+rdd2 = lm(y ~ time * intervention, data=m)
+summary(rdd2)
+```
+
+Now let's add a control series.
+
+```{r}
+a2 = a
+names(a2) = c("x","yt")
+df = rbind(a2, data.frame(x=101:200, yt=jitter(seq(50,0.5,-0.5), j)))
+df$yc = jitter(50) + df$yt
+df[df$x>=100,]$yc = jitter(seq(150,125,-0.25), 4*j)
+
+{
+  plot(df$x, type="n", xlab="time", ylab="y")
+  points(df$x, df$yt)
+  points(df$x, df$yc, col = "red", pch=2)
+  legend(1, 195, legend=c("Treatment", "Control"),
+       col=c("black", "red"), pch=c(21,2))
+  abline(v=100)
+}
+```
+
+And set up the ITS variables.
+
+```{r}
+dfm = data.frame(time = df$x, y = c(df[c("x","yt")]$yt,df[c("x","yc")]$yc))
+
+dfm$group = c(rep("treated",200), rep("control",200))
+dfm$intervention = dfm$time > 100
+dfm$time_after_intervention = ifelse(dfm$time > 100, dfm$time - 100, 0)
+
+rdd2c = lm(y ~ time 
+           + intervention 
+           + time_after_intervention 
+           + group
+           + group:time
+           + group:intervention
+           + group:time_after_intervention
+           , data=dfm)
+summary(rdd2c)
+```
+
+Is there autocorrelation?
+
+```{r}
+simple_ts = lm(y ~ time, data=m)
+plot(resid(simple_ts))
+
+# alternatively
+acf(resid(simple_ts))
+```
+
+To formally test for autocorrelation, we can use the Durbin-Watson test
+
+```{r}
+library(lmtest)
+dwtest(m$y ~ m$time)
+```
+From the p-value, we know that there is autocorrelation in the time series
+
+A solution to this problem could be to use more advanced time series analysis (e.g., ARIMA) to adjust for seasonality and other dependency, or to use mixed-effects models when modeling multiple individual "treated" time series jointly.
+
+
