@@ -1,7 +1,7 @@
 [![Empirical Methods](assets/promo/promo.001.jpeg)](https://www.youtube.com/watch?v=TFkcCqmlLms "17-803 Empirical Methods")
 (thanks for the promo, [@JoshQuicksall](https://twitter.com/JoshQuicksall)!)
 
-**This is the Spring 2024 offering of this course. For older versions, see here: [Fall 2022](fall-2022/) • [Spring 2021](spring-2021/) • [Fall 2018](fall-2018/).**
+**This is the Spring 2026 offering of this course. For older versions, see here: [Spring 2024](spring-2024/) • [Fall 2022](fall-2022/) • [Spring 2021](spring-2021/) • [Fall 2018](fall-2018/).**
 
 ### Overview
 
@@ -35,12 +35,12 @@ After completing this course, you will:
 As a side effect, this course helps you develop a healthy dose of skepticism towards scientific results in general. Does the study design really allow the authors to make certain claims? Does the analysis technique? Is the evidence provided as strong as it could be? Are there fundamental flaws and threats to validity?
 
 ### Coordinates
-- Lectures: Tuesdays & Thursdays 3:30-4:50pm, Eastern Time in WEH 4708
-- Assignments, private announcements: [Canvas](https://canvas.cmu.edu/courses/39794)
+- Lectures: Tuesdays & Thursdays 3:30-4:50pm, Eastern Time in GHC 5222
+- Assignments, private announcements: [Canvas](https://canvas.cmu.edu/courses/52575)
 - Slides: this website
 - Reading materials: [Shared Google Drive folder](https://drive.google.com/drive/folders/1lSOQlbw-cRmT47_itpIJkTZua_IASNgB?usp=sharing) accessible with CMU login
 - Instructor: [Bogdan Vasilescu](https://bvasiles.github.io)
-<!-- - Teaching assistant: -->
+- Teaching assistant: [Claudia Mamede](https://claudiarmamede.github.io)
 
 ### Course Syllabus and Policies
 The [syllabus](syllabus.md) covers course overview and objectives, evaluation, 
@@ -55,40 +55,40 @@ written project reports, and in-class presentations.
 
 ### Schedule
 
-Below is a preliminary schedule for Spring 2024. Each link points to a dedicated page with materials and more details.
-All videos are published on [this YouTube channel](https://youtube.com/playlist?list=PLuPUOEODcOmsS409iKohAewobtQswdI7M).
+Below is a preliminary schedule for Spring 2026. Each link points to a dedicated page with materials and more details.
+All videos are published on [this YouTube channel](https://www.youtube.com/channel/UCLgXNb6mCADXWjsPlPKExWA).
 
 *Note*: The schedule is subject to change and will be updated as the semester progresses. 
 
 | Date        		| Topic 	| Notes |
 | :------------- 	|:--------|:-------- |
-Tue, Jan 16 | [Introduction](pages/jan16-intro.md) | [slides](slides/01-intro.pdf)
-Thu, Jan 18 | [Formulating research questions](pages/jan18-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://youtu.be/tvapW-H4R9A)
-Tue, Jan 23 | [The role of theory](pages/jan23-theory.md) | [slides](slides/03-theory.pdf) • [video](https://youtu.be/Kdu68doozkQ)
-Thu, Jan 25 | [Literature review](pages/jan25-litreview.md) | [slides](slides/04-litreview.pdf) • [video](https://youtu.be/xmUd7hrGKSg)
-Tue, Jan 30 | [Exemplar interview papers](pages/jan30-interviews-examples.md) | [slides](slides/05-interviewing-examples.pdf)
-Thu, Feb 1 | ~~No class (Bogdan traveling)~~ | 
-Tue, Feb 6 | [Conducting interviews](pages/feb06-interviews.md) | [slides](slides/06-interviewing.pdf) • [video](https://youtu.be/HuA6hB0_rpM)
-Thu, Feb 8 | [Qualitative data analysis](pages/feb08-coding.md) | [slides](slides/07-qualitative-coding.pdf) • [video](https://youtu.be/rlfYq7jIjxU)
-Tue, Feb 13 | [In-class activity: qualitative coding & thematic analysis](pages/feb12-coding-hands-on.md) | [slides](slides/08-qualitative-coding-recitation.pdf)
-Thu, Feb 15 | [Qualitative analysis in the age of LLMs](pages/feb15-coding-with-llms.md) | [slides](slides/09-qualitative-coding-llms.pdf)
-Tue, Feb 20 | [Project proposal presentations](pages/feb20-proposals.md) | [slides](slides/10-proposals.pdf)
-Thu, Feb 22 | [Types of errors in probability survey research](pages/feb22-surveys-pt1.md) | [slides](slides/11-survey-design-pt1.pdf) • [video](https://youtu.be/MGZ8WEq7YF4)
-Tue, Feb 27 | [Questionnaire design and multi-item scales](pages/feb27-surveys-pt2.md) | [slides](slides/12-survey-design-pt2.pdf) • [video](https://youtu.be/fzBbXhyfvhM)
-Thu, Feb 29 | [Causal relationships and experimental design](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf) • [video](https://youtu.be/JQfrDZoOwoc)
-~~Tue, Mar 5~~ | ~~Spring break, no class~~ |
-~~Thu, Mar 7~~ | ~~Spring break, no class~~ |
-Tue, Mar 12 | [Experimental design papers](pages/mar12-experiments-examples.md) | [slides](slides/14-experiments-pt2.pdf) • [video](https://youtu.be/m2eOHDPYz74)
-Thu, Mar 14 | [Interaction effects](pages/mar14-experiments-stats.md) | [slides](slides/15-experiments-pt3.pdf)
-Tue, Mar 19 | [Regression modeling diagnostics](pages/mar19-regression-pt1.md) | [slides](slides/16-regression-pt1.pdf) • [video](https://youtu.be/B0EWuMce3vY)
-Thu, Mar 21 | [In-class activity: Galton families regression](pages/mar21-regression-pt2.md) | [slides](https://docs.google.com/document/d/1Z59QvGl_H5h3Dkah7kzr2qhoHXSBKk8hHUordpEI7Dk/edit?usp=sharing) • [video](https://youtu.be/hGpVgrDuOkA)
-Tue, Mar 26 | [In-class activity: Simpson's paradox](pages/mar26-regression-pt3.md) | [notebook](assets/activities/mixedEffects.pdf) • [video](https://youtu.be/_-0EzPHkp5s)
-Thu, Mar 28 | [Interrupted time series design](pages/mar28-its.md) | [slides](slides/19-time-series.pdf) • [video](https://youtu.be/IJ_ddr860co)
-Tue, Apr 2 | [Interrupted time series analysis with control](pages/apr02-its-exemplars.md) | [paper](https://www.degruyterbrill.com/document/doi/10.1515/em-2018-0010/html) • [video](https://youtu.be/M-vOosQaNdU)
-Thu, Apr 4 | [In-class activity: ITS with control](pages/apr04-its-with-control.md) | [notebook](assets/activities/its_synthetic_class.pdf) • [video](https://youtu.be/Kxmc5tNOIxQ)
-Tue, Apr 9 | [Dealing with controversy](pages/apr09-controversy.md) | [slides](https://docs.google.com/presentation/d/1d_1DVGUHtDwZrFYAMnvI6A6s9BncsozjEpDlUt7cIn4/edit?usp=sharing) • [video](https://youtu.be/ZKwkx03NrtE)
-~~Thu, Apr 11~~ | ~~Carnival, no class~~ |
-Tue, Apr 16 | Guest lecture: Social network analysis (I) | [video](https://youtu.be/-pTwz1qLdqY)
-Thu, Apr 18 | Guest lecture: Social network analysis (II) | [video](https://youtu.be/knj6E-_NHtg)
-Tue, Apr 23 | Final presentations (I) | 
-Thu, Apr 25 | Final presentations (II) | 
+~~Tue, Jan 13~~ | ~~No class (Bogdan out)~~ | 
+~~Thu, Jan 15~~ | ~~No class (Bogdan out)~~ | 
+Tue, Jan 20 | Introduction | 
+Thu, Jan 22 | Formulating research questions | 
+Tue, Jan 27 | The role of theory | 
+Thu, Jan 29 | Literature review | 
+Tue, Feb 3 | Exemplar interview papers | 
+Thu, Feb 5 | Conducting interviews | 
+Tue, Feb 10 | Qualitative data analysis | 
+Thu, Feb 12 | In-class activity: qualitative coding & thematic analysis | 
+Tue, Feb 17 | Qualitative analysis in the age of LLMs | 
+Thu, Feb 19 | Types of errors in probability survey research | 
+Tue, Feb 24 | Questionnaire design and multi-item scales | 
+Thu, Feb 26 | Causal relationships and experimental design | 
+~~Tue, Mar 3~~ | ~~Spring break, no class~~ |
+~~Thu, Mar 5~~ | ~~Spring break, no class~~ |
+Tue, Mar 10 | Experimental design papers | 
+Thu, Mar 12 | Interaction effects | 
+Tue, Mar 17 | Regression modeling diagnostics | 
+Thu, Mar 19 | In-class activity: Galton families regression | 
+Tue, Mar 24 | In-class activity: Simpson's paradox | 
+Thu, Mar 26 | Interrupted time series design | 
+Tue, Mar 31 | Interrupted time series analysis with control | 
+Thu, Apr 2 | In-class activity: ITS with control | 
+Tue, Apr 7 | Dealing with controversy | 
+~~Thu, Apr 9~~ | ~~Carnival, no class~~ |
+Tue, Apr 14 | Guest lecture (Bogdan @ICSE) | 
+Thu, Apr 16 | Guest lecture (Bogdan @ICSE) | 
+Tue, Apr 21 | Final presentations (I) | 
+Thu, Apr 23 | Final presentations (II) |

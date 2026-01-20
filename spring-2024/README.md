@@ -56,7 +56,7 @@ written project reports, and in-class presentations.
 ### Schedule
 
 Below is a preliminary schedule for Spring 2024. Each link points to a dedicated page with materials and more details.
-All videos are published on [this YouTube channel](https://youtube.com/playlist?list=PLuPUOEODcOmsS409iKohAewobtQswdI7M).
+All videos are published on [this YouTube channel](https://www.youtube.com/playlist?list=PLuPUOEODcOmsiOxD7LK5EcQcj34Y9NwYg).
 
 *Note*: The schedule is subject to change and will be updated as the semester progresses. 
 
