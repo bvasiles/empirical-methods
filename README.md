@@ -64,7 +64,7 @@ All videos are published on [this YouTube channel](https://www.youtube.com/chann
 | :------------- 	|:--------|:-------- |
 ~~Tue, Jan 13~~ | ~~No class (Bogdan out)~~ | 
 ~~Thu, Jan 15~~ | ~~No class (Bogdan out)~~ | 
-Tue, Jan 20 | Introduction | 
+Tue, Jan 20 | [Introduction](pages/jan20-intro.md) | [slides](slides/01-intro.pdf) 
 Thu, Jan 22 | Formulating research questions | 
 Tue, Jan 27 | The role of theory | 
 Thu, Jan 29 | Literature review | 
