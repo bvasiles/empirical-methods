@@ -1,4 +1,4 @@
-## L1: Introduction ([pdf](../slides/01-intro.pdf))
+## L1: Introduction ([pdf](../slides/01-intro.pdf), [video](https://www.youtube.com/watch?v=RW0yF_zDeAw))
 
 [![Lecture1-Intro](../assets/images/01-intro.jpeg)](../slides/01-intro.pdf)
 
