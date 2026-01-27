@@ -66,7 +66,7 @@ All videos are published on [this YouTube channel](https://www.youtube.com/chann
 ~~Thu, Jan 15~~ | ~~No class (Bogdan out)~~ | 
 Tue, Jan 20 | [Introduction](pages/jan20-intro.md) | [slides](slides/01-intro.pdf) • [video](https://www.youtube.com/watch?v=RW0yF_zDeAw)
 Thu, Jan 22 | [Formulating research questions](pages/jan22-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://www.youtube.com/watch?v=1SCM76VQqtM)
-Tue, Jan 27 | The role of theory | 
+Tue, Jan 27 | Literature Review | [Literature review](pages/jan27-litreview.md) | [slides](slides/03-litreview.pdf)
 Thu, Jan 29 | Literature review | 
 Tue, Feb 3 | Exemplar interview papers | 
 Thu, Feb 5 | Conducting interviews | 
