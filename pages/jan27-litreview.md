@@ -1,4 +1,4 @@
-## L3: Literature Review ([pdf](../slides/03-litreview.pdf))
+## L3: Literature Review ([pdf](../slides/03-litreview.pdf), [video](https://www.youtube.com/watch?v=_ICF0A7o64I))
 
 [![Lecture3-LitReview](../assets/images/03-litreview.jpg)](../slides/03-litreview.pdf)
 
