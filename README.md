@@ -68,7 +68,7 @@ Tue, Jan 20 | [Introduction](pages/jan20-intro.md) | [slides](slides/01-intro.pd
 Thu, Jan 22 | [Formulating research questions](pages/jan22-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://www.youtube.com/watch?v=1SCM76VQqtM)
 Tue, Jan 27 | [Literature review](pages/jan27-litreview.md)  | [slides](slides/03-litreview.pdf) • [video](https://www.youtube.com/watch?v=_ICF0A7o64I)
 Thu, Jan 29 | [Role of Theory](pages/jan29-theory.md) | [slides](slides/04-theory.pdf)• [video](https://www.youtube.com/watch?v=WuSB9Px2Yp8)
-Tue, Feb 3 | Exemplar interview papers | 
+Tue, Feb 3 | [Interviewing](pages/feb03-interviews.md) | [slides](slides/06-interviewing.pdf)
 Thu, Feb 5 | Conducting interviews | 
 Tue, Feb 10 | Qualitative data analysis | 
 Thu, Feb 12 | In-class activity: qualitative coding & thematic analysis | 
