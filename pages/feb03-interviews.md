@@ -1,4 +1,4 @@
-## L5: Conducting Interviews ([pdf](../slides/06-interviewing.pdf))
+## L5: Conducting Interviews ([pdf](../slides/06-interviewing.pdf), [video](https://www.youtube.com/watch?v=zJ5FkfqAdns))
 
 [![Lecture6-Interviews](../assets/images/06-interviewing.jpg)](../slides/06-interviewing.pdf)
 

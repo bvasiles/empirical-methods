@@ -67,8 +67,8 @@ All videos are published on [this YouTube channel](https://www.youtube.com/chann
 Tue, Jan 20 | [Introduction](pages/jan20-intro.md) | [slides](slides/01-intro.pdf) • [video](https://www.youtube.com/watch?v=RW0yF_zDeAw)
 Thu, Jan 22 | [Formulating research questions](pages/jan22-rqs.md) | [slides](slides/02-rqs.pdf) • [video](https://www.youtube.com/watch?v=1SCM76VQqtM)
 Tue, Jan 27 | [Literature review](pages/jan27-litreview.md)  | [slides](slides/03-litreview.pdf) • [video](https://www.youtube.com/watch?v=_ICF0A7o64I)
-Thu, Jan 29 | [Role of Theory](pages/jan29-theory.md) | [slides](slides/04-theory.pdf)• [video](https://www.youtube.com/watch?v=WuSB9Px2Yp8)
-Tue, Feb 3 | [Interviewing](pages/feb03-interviews.md) | [slides](slides/06-interviewing.pdf)
+Thu, Jan 29 | [Role of Theory](pages/jan29-theory.md) | [slides](slides/04-theory.pdf) • [video](https://www.youtube.com/watch?v=WuSB9Px2Yp8)
+Tue, Feb 3 | [Interviewing](pages/feb03-interviews.md) | [slides](slides/06-interviewing.pdf) • [video](https://www.youtube.com/watch?v=zJ5FkfqAdns)
 Thu, Feb 5 | Conducting interviews | 
 Tue, Feb 10 | Qualitative data analysis | 
 Thu, Feb 12 | In-class activity: qualitative coding & thematic analysis | 
