@@ -70,8 +70,8 @@ Tue, Jan 27 | [Literature review](pages/jan27-litreview.md)  | [slides](slides/0
 Thu, Jan 29 | [Role of Theory](pages/jan29-theory.md) & Paper discussion | [slides](slides/04-theory.pdf) • [slides P1](assets/presentations/Decoding-the-Impulsive-Behavior.pdf), P2 🔜 • [video](https://www.youtube.com/watch?v=WuSB9Px2Yp8)
 Tue, Feb 3 | [Interviewing](pages/feb03-interviews.md) | [slides](slides/06-interviewing.pdf) • [video](https://www.youtube.com/watch?v=zJ5FkfqAdns)
 Thu, Feb 5 | Paper discussion |[slides P3](assets/presentations/SDAtSpeedOfLight.pdf), [P4](assets/presentations/PromptsArePrograms.pdf), [P5](assets/presentations/SexWorkTechnology.pdf) • [video](https://www.youtube.com/watch?v=0RlKAtkXjq4) 
-Tue, Feb 10 | [Qualitative data analysis](pages/feb10-coding.md) |  [slides](slides/07-qualitative-coding.pdf) • [video](https://www.youtube.com/watch?v=Fsjr5yqUQIc)
-Thu, Feb 12 | In-class activity: qualitative coding & thematic analysis | [Qualitative data analysis](pages/feb10-coding.md) |  [slides](slides/07-qualitative-coding.pdf) • [video](https://www.youtube.com/watch?v=rS_eiGlM7nk)
+Tue, Feb 10 | [Qualitative data analysis](pages/feb10-coding.md) |  [slides](slides/07-qualitative-coding.pdf) • [video](https://www.youtube.com/watch?v=Fsjr5yqUQIc) |
+Thu, Feb 12 | In-class activity: qualitative coding & thematic analysis | [Qualitative data analysis](pages/feb10-coding.md) |  [slides](slides/07-qualitative-coding.pdf) • [video](https://www.youtube.com/watch?v=rS_eiGlM7nk) |
 Tue, Feb 17 | Qualitative analysis in the age of LLMs | 
 Thu, Feb 19 | Types of errors in probability survey research | 
 Tue, Feb 24 | Questionnaire design and multi-item scales | 
