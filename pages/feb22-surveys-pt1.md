@@ -1,4 +1,4 @@
-## L11: Survey Design ([pdf](../slides/11-survey-design-pt1.pdf), [video](https://youtu.be/MGZ8WEq7YF4))
+## L11: Survey Design ([pdf](../slides/11-survey-design-pt1.pdf))
 
 [![Lecture11-Survey-Design](../assets/images/11-surveys-pt1.jpeg)](../slides/11-survey-design-pt1.pdf)
 
