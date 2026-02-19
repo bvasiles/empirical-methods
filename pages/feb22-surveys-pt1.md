@@ -1,6 +1,6 @@
-## L11: Types of Errors in Probability Survey Research ([pdf](../slides/11-survey-design-pt1.pdf), [video](https://youtu.be/MGZ8WEq7YF4))
+## L11: Survey Design ([pdf](../slides/11-survey-design-pt1.pdf), [video](https://youtu.be/MGZ8WEq7YF4))
 
-[![Lecture11-Survey-Design](../assets/images/11-surveys-pt1.jpg)](../slides/11-survey-design-pt1.pdf)
+[![Lecture11-Survey-Design](../assets/images/11-surveys-pt1.jpeg)](../slides/11-survey-design-pt1.pdf)
 
 In this lecture series we talk about how to conduct effective probability sample surveys. We discuss the fundamental requirements that must be met if one wants to generalize results with statistical confidence from the few who are surveyed to the many they are selected to represent. 
 

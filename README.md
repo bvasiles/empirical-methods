@@ -73,7 +73,7 @@ Thu, Feb 5 | Paper discussion |[slides P3](assets/presentations/SDAtSpeedOfLight
 Tue, Feb 10 | [Qualitative data analysis](pages/feb10-coding.md) |  [slides](slides/07-qualitative-coding.pdf) • [video](https://www.youtube.com/watch?v=Fsjr5yqUQIc) |
 Thu, Feb 12 | In-class activity: qualitative coding & thematic analysis |  [slides](slides/07-qualitative-coding.pdf) • [video](https://www.youtube.com/watch?v=rS_eiGlM7nk) |
 Tue, Feb 17 | [Mixed Methods](pages/feb17-mixed-methods.md) | [slides](slides/10-mixed-methods.pdf)
-Thu, Feb 19 | Types of errors in probability survey research | 
+Thu, Feb 19 | [Survey Design (Part 1)](pages/feb22-surveys-pt1.md) | [slides](slides/11-survey-design-pt1.pdf)
 Tue, Feb 24 | Questionnaire design and multi-item scales | 
 Thu, Feb 26 | Causal relationships and experimental design | 
 ~~Tue, Mar 3~~ | ~~Spring break, no class~~ |
