@@ -71,7 +71,7 @@ Thu, Jan 29 | [Role of Theory](pages/jan29-theory.md) & Paper discussion | [slid
 Tue, Feb 3 | [Interviewing](pages/feb03-interviews.md) | [slides](slides/06-interviewing.pdf) • [video](https://www.youtube.com/watch?v=zJ5FkfqAdns)
 Thu, Feb 5 | Paper discussion |[slides P3](assets/presentations/miller.pdf), [P4](assets/presentations/PromptsArePrograms.pdf), [P5](assets/presentations/SexWorkTechnology.pdf) • [video](https://www.youtube.com/watch?v=0RlKAtkXjq4) 
 Tue, Feb 10 | [Qualitative data analysis](pages/feb10-coding.md) |  [slides](slides/07-qualitative-coding.pdf) • [video](https://www.youtube.com/watch?v=Fsjr5yqUQIc) |
-Thu, Feb 12 | In-class activity: qualitative coding & thematic analysis |  [slides](slides/07-qualitative-coding.pdf) • [video](https://www.youtube.com/watch?v=rS_eiGlM7nk) |
+Thu, Feb 12 | [In-class activity: qualitative coding & thematic analysis](pages/feb12-coding-hands-on.md) |  [slides](slides/07-qualitative-coding.pdf) • [video](https://www.youtube.com/watch?v=rS_eiGlM7nk) |
 Tue, Feb 17 | Paper discussion & [Mixed Methods](pages/feb17-mixed-methods.md) & [Survey Design](pages/feb22-surveys-pt1.md) | [slides P6](assets/presentations/sitaraman.pdf) •  [slides MM](slides/10-mixed-methods.pdf), [slides SD](slides/11-survey-design-pt1.pdf) • [video](https://youtu.be/L6ZChs7FOhQ) 
 Thu, Feb 19 | Paper discussion & [Survey Design](pages/feb22-surveys-pt1.md) | [slides](slides/11-survey-design-pt1.pdf) • [slides P7](assets/presentations/singhal.pdf) • [video](https://www.youtube.com/watch?v=wfEWixZrQsg) 
 Tue, Feb 24 | Paper discussion | [slides P8](assets/presentations/morrison.pdf), [P9](assets/presentations/wang.pdf), [P10](assets/presentations/luo.pdf) • [video](https://youtu.be/TjSgK4Si4vc) 
