@@ -1,4 +1,4 @@
-## L11: Survey Design ([pdf](../slides/11-survey-design-pt1.pdf))
+## L10: Survey Design ([pdf](../slides/11-survey-design-pt1.pdf))
 
 [![Lecture11-Survey-Design](../assets/images/11-surveys-pt1.jpeg)](../slides/11-survey-design-pt1.pdf)
 
