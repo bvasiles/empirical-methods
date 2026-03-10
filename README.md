@@ -75,7 +75,7 @@ Thu, Feb 12 | [In-class activity: qualitative coding & thematic analysis](pages/
 Tue, Feb 17 | Paper discussion & [Mixed Methods](pages/feb17-mixed-methods.md) & [Survey Design](pages/feb22-surveys-pt1.md) | [slides P6](assets/presentations/sitaraman.pdf) •  [slides MM](slides/10-mixed-methods.pdf), [slides SD](slides/11-survey-design-pt1.pdf) • [video](https://youtu.be/L6ZChs7FOhQ) 
 Thu, Feb 19 | Paper discussion & [Survey Design](pages/feb22-surveys-pt1.md) | [slides](slides/11-survey-design-pt1.pdf) • [slides P7](assets/presentations/singhal.pdf) • [video](https://www.youtube.com/watch?v=wfEWixZrQsg) 
 Tue, Feb 24 | Paper discussion | [slides P8](assets/presentations/morrison.pdf), [P9](assets/presentations/wang.pdf), [P10](assets/presentations/luo.pdf) • [video](https://youtu.be/TjSgK4Si4vc) 
-Thu, Feb 26 | Survey Design | [slides](slides/12-survey-design-pt2.pdf) 
+Thu, Feb 26 | Survey Design | [slides](slides/12-survey-design-pt2.pdf) • [video](https://youtu.be/aKSKNfIx1fk)
 ~~Tue, Mar 3~~ | ~~Spring break, no class~~ |
 ~~Thu, Mar 5~~ | ~~Spring break, no class~~ |
 Tue, Mar 10 | Experimental design papers | 
