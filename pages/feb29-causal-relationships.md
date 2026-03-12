@@ -1,4 +1,4 @@
-## L13: Experimental Design Part I - Causal Relationships ([pdf](../slides/13-experiments-pt1.pdf))
+## L13: Experimental Design Part I - Causal Relationships ([pdf](../slides/13-experiments-pt1.pdf), [video](https://youtu.be/q7zyYIdkvI4))
 
 [![Lecture13-Experiments](../assets/images/13-experiments-pt1.jpg)](../slides/13-experiments-pt1.pdf)
 
