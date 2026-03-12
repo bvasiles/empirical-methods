@@ -1,10 +1,10 @@
-## L14: Experimental Design Part II - Examples ([pdf](../slides/14-experiments-pt2.pdf), [video](https://youtu.be/m2eOHDPYz74))
+## L14: Experimental Design Part II - Examples ([pdf](../slides/14-experiments-pt2.pdf))
 
 [![Lecture14-Experiments2](../assets/images/14-experiments-pt2.jpg)](../slides/14-experiments-pt2.pdf)
 
 This lecture is the second part of a series on designing experiments. 
 
-We discussed and critiqued examples of studies using experiments, including a true (randomized) experiment in the Tomkins et al study of double blind reviewing at the Conference on Web Search and Data Mining.
+We discussed and critiqued examples of studies using experiments.
 
 
 ### Lecture Readings
