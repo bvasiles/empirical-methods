@@ -79,8 +79,8 @@ Thu, Feb 26 | Survey Design | [slides](slides/12-survey-design-pt2.pdf) • [vid
 ~~Tue, Mar 3~~ | ~~Spring break, no class~~ |
 ~~Thu, Mar 5~~ | ~~Spring break, no class~~ |
 Tue, Mar 10 | [Designing Experiments](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf) • [video](https://youtu.be/q7zyYIdkvI4)
-Thu, Mar 12 | In-class activity: [designing experiments](pages/mar12-experiments-examples.md) |  [slides](slides/14-experiments-pt2.pdf)
-Tue, Mar 17 | Regression modeling diagnostics | 
+Thu, Mar 12 | Paper discussion & In-class activity: [designing experiments](pages/mar12-experiments-examples.md) | [P11](assets/presentations/patidar.pdf) • [slides](slides/14-experiments-pt2.pdf) • [video]()
+Tue, Mar 17 | [Designing Experiments](pages/mar14-experiments-stats.md) | [slides](slides/15-experiments-pt3.pdf)
 Thu, Mar 19 | In-class activity: Galton families regression | 
 Tue, Mar 24 | In-class activity: Simpson's paradox | 
 Thu, Mar 26 | Interrupted time series design | 
