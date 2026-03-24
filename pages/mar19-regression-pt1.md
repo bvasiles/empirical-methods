@@ -1,4 +1,4 @@
-## L16: Intro to Linear Regression ([pdf](../slides/16-regression-pt1.pdf), [video](https://youtu.be/B0EWuMce3vY))
+## L16: Intro to Linear Regression ([pdf](../slides/16-regression-pt1.pdf))
 
 [![Lecture16-Regression-Intro](../assets/images/16-regression-pt1.jpg)](../slides/16-regression-pt1.pdf)
 
