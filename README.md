@@ -82,7 +82,7 @@ Tue, Mar 10 | [Designing Experiments I](pages/feb29-causal-relationships.md) | [
 Thu, Mar 12 | Paper discussion & In-class activity: [Designing Experiments II](pages/mar12-experiments-examples.md) | [P11](assets/presentations/patidar.pdf) • [slides](slides/14-experiments-pt2.pdf) • [video](https://youtu.be/CxaLHmsu-KU)
 Tue, Mar 17 | Paper discussion | [P12](assets/presentations/barros.pdf) • [video](https://www.youtube.com/watch?v=VALGcjTjn9w)
 Thu, Mar 19 | Paper discussion & [Designing Experiments III](pages/mar14-experiments-stats.md) | [P13](assets/presentations/cui.pdf) • [slides](slides/15-experiments-pt3.pdf) • [video]()
-Tue, Mar 24 | [Regression Modeling I](pages/mar19-regression-pt1.md) | 
+Tue, Mar 24 | [Regression Modeling I](pages/mar19-regression-pt1.md) | [slides](slides/16-regression-pt1.pdf)
 Thu, Mar 26 | Interrupted time series design | 
 Tue, Mar 31 | Interrupted time series analysis with control | 
 Thu, Apr 2 | In-class activity: ITS with control | 
