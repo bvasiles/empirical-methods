@@ -78,11 +78,11 @@ Tue, Feb 24 | Paper discussion | [slides P8](assets/presentations/morrison.pdf),
 Thu, Feb 26 | Survey Design | [slides](slides/12-survey-design-pt2.pdf) • [video](https://youtu.be/aKSKNfIx1fk)
 ~~Tue, Mar 3~~ | ~~Spring break, no class~~ |
 ~~Thu, Mar 5~~ | ~~Spring break, no class~~ |
-Tue, Mar 10 | [Designing Experiments](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf) • [video](https://youtu.be/q7zyYIdkvI4)
-Thu, Mar 12 | Paper discussion & In-class activity: [designing experiments](pages/mar12-experiments-examples.md) | [P11](assets/presentations/patidar.pdf) • [slides](slides/14-experiments-pt2.pdf) • [video](https://youtu.be/CxaLHmsu-KU)
+Tue, Mar 10 | [Designing Experiments I](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf) • [video](https://youtu.be/q7zyYIdkvI4)
+Thu, Mar 12 | Paper discussion & In-class activity: [Designing Experiments II](pages/mar12-experiments-examples.md) | [P11](assets/presentations/patidar.pdf) • [slides](slides/14-experiments-pt2.pdf) • [video](https://youtu.be/CxaLHmsu-KU)
 Tue, Mar 17 | Paper discussion | [P12](assets/presentations/barros.pdf) • [video](https://www.youtube.com/watch?v=VALGcjTjn9w)
 Thu, Mar 19 | Paper discussion & [Designing Experiments III](pages/mar14-experiments-stats.md) | [P13](assets/presentations/cui.pdf) • [slides](slides/15-experiments-pt3.pdf) • [video]()
-Tue, Mar 24 | [Regressions](pages/mar19-regression-pt1.md) | 
+Tue, Mar 24 | [Regression Modeling I](pages/mar19-regression-pt1.md) | 
 Thu, Mar 26 | Interrupted time series design | 
 Tue, Mar 31 | Interrupted time series analysis with control | 
 Thu, Apr 2 | In-class activity: ITS with control | 
