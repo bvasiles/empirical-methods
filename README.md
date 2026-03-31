@@ -83,8 +83,8 @@ Thu, Mar 12 | Paper discussion & In-class activity: [Designing Experiments II](p
 Tue, Mar 17 | Paper discussion | [P12](assets/presentations/barros.pdf) • [video](https://www.youtube.com/watch?v=VALGcjTjn9w)
 Thu, Mar 19 | Paper discussion & [Designing Experiments III](pages/mar14-experiments-stats.md) | [P13](assets/presentations/cui.pdf) • [slides](slides/15-experiments-pt3.pdf) • [video]()
 Tue, Mar 24 | [Regression Modeling I](pages/mar19-regression-pt1.md) | [slides](slides/16-regression-pt1.pdf)
-Thu, Mar 26 | Interrupted time series design | 
-Tue, Mar 31 | Interrupted time series analysis with control | 
+Thu, Mar 26 | [Regression Modeling II/III](pages/mar21-regression-pt2.md),  | [slides](slides/17-regression-pt2.pdf), [slides](slides/18-regression-pt3.pdf)
+Tue, Mar 31 | Fixed & Random Effects | 🔜 
 Thu, Apr 2 | In-class activity: ITS with control | 
 Tue, Apr 7 | Dealing with controversy | 
 ~~Thu, Apr 9~~ | ~~Carnival, no class~~ |

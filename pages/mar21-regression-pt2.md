@@ -1,4 +1,4 @@
-## L17: Linear Regression (Part II) ([pdf](../slides/17-regression-pt2.pdf), [video](https://youtu.be/hGpVgrDuOkA))
+## L17: Linear Regression (Part II/III) ([pdf](../slides/17-regression-pt2.pdf))
 
 [![Lecture17-Regression-Hands-on](../assets/images/17-regression-pt2.jpeg)](../slides/17-regression-pt2.pdf)
 
