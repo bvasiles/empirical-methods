@@ -81,11 +81,11 @@ Thu, Feb 26 | Survey Design | [slides](slides/12-survey-design-pt2.pdf) • [vid
 Tue, Mar 10 | [Designing Experiments I](pages/feb29-causal-relationships.md) | [slides](slides/13-experiments-pt1.pdf) • [video](https://youtu.be/q7zyYIdkvI4)
 Thu, Mar 12 | Paper discussion & In-class activity: [Designing Experiments II](pages/mar12-experiments-examples.md) | [P11](assets/presentations/patidar.pdf) • [slides](slides/14-experiments-pt2.pdf) • [video](https://youtu.be/CxaLHmsu-KU)
 Tue, Mar 17 | Paper discussion | [P12](assets/presentations/barros.pdf) • [video](https://www.youtube.com/watch?v=VALGcjTjn9w)
-Thu, Mar 19 | Paper discussion & [Designing Experiments III](pages/mar14-experiments-stats.md) | [P13](assets/presentations/cui.pdf) • [slides](slides/15-experiments-pt3.pdf) • [video]()
-Tue, Mar 24 | [Regression Modeling I](pages/mar19-regression-pt1.md) | [slides](slides/16-regression-pt1.pdf)
-Thu, Mar 26 | [Regression Modeling II/III](pages/mar21-regression-pt2.md),  | [slides](slides/17-regression-pt2.pdf), [slides](slides/18-regression-pt3.pdf)
-Tue, Mar 31 | Fixed & Random Effects | 🔜 
-Thu, Apr 2 | In-class activity: ITS with control | 
+Thu, Mar 19 | Paper discussion & [Designing Experiments III](pages/mar14-experiments-stats.md) | [P13](assets/presentations/cui.pdf) • [slides](slides/15-experiments-pt3.pdf) • [video](https://youtu.be/2MrLNwlN_DU)
+Tue, Mar 24 | [Regression Modeling I](pages/mar19-regression-pt1.md) | [slides](slides/16-regression-pt1.pdf) • [video](https://youtu.be/PUeACqd-JlY)
+Thu, Mar 26 | [Regression Modeling II](pages/mar21-regression-pt2.md),  | [slides](slides/17-regression-pt2.pdf) • 🔜
+Tue, Mar 31 | Regression Modeling III & Mixed Effects | [materials](https://bvasiles.github.io/empirical-methods/pages/mar31-mixed-effects.html) • [video](https://youtu.be/JxxPJ8kRo-A)
+Thu, Apr 2 | Paper discussion & In-class activity | 
 Tue, Apr 7 | Dealing with controversy | 
 ~~Thu, Apr 9~~ | ~~Carnival, no class~~ |
 Tue, Apr 14 | Guest lecture (Bogdan @ICSE) | 
