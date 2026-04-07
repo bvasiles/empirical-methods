@@ -85,8 +85,8 @@ Thu, Mar 19 | Paper discussion & [Designing Experiments III](pages/mar14-experim
 Tue, Mar 24 | [Regression Modeling I](pages/mar19-regression-pt1.md) | [slides](slides/16-regression-pt1.pdf) • [video](https://youtu.be/PUeACqd-JlY)
 Thu, Mar 26 | [Regression Modeling II](pages/mar21-regression-pt2.md),  | [slides](slides/17-regression-pt2.pdf) • 🔜
 Tue, Mar 31 | Regression Modeling III & Mixed Effects | [materials](https://bvasiles.github.io/empirical-methods/pages/mar31-mixed-effects.html) • [video](https://youtu.be/JxxPJ8kRo-A)
-Thu, Apr 2 | Paper discussion & In-class activity | 
-Tue, Apr 7 | Dealing with controversy | 
+Thu, Apr 2 | In-class activity | [materials w/ sol](assets/activities/in-class-typingspeed.md) • [video](https://youtu.be/YuI0i_dzUBo)
+Tue, Apr 7 | [Time series](pages/apr02-its-exemplars.md) |  [materials](assets/activities/ts.pdf)
 ~~Thu, Apr 9~~ | ~~Carnival, no class~~ |
 Tue, Apr 14 | Guest lecture (Bogdan @ICSE) | 
 Thu, Apr 16 | Guest lecture (Bogdan @ICSE) | 
